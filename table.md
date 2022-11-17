@@ -7112,7 +7112,7 @@
             </tr>
             <tr>
                <th>berg_ostasien01_1864</th>
-               <td>66</td>
+               <td>100</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -7157,7 +7157,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0038.xml">berg_ostasien01_1864_0038.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7176,7 +7176,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0020.xml">berg_ostasien01_1864_0020.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7195,7 +7195,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0016.xml">berg_ostasien01_1864_0016.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7214,7 +7214,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0034.xml">berg_ostasien01_1864_0034.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7233,7 +7233,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0042.xml">berg_ostasien01_1864_0042.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7252,7 +7252,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0039.xml">berg_ostasien01_1864_0039.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7271,7 +7271,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0019.xml">berg_ostasien01_1864_0019.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7290,7 +7290,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0041.xml">berg_ostasien01_1864_0041.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7309,7 +7309,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0017.xml">berg_ostasien01_1864_0017.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7328,7 +7328,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0040.xml">berg_ostasien01_1864_0040.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7347,7 +7347,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0035.xml">berg_ostasien01_1864_0035.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7366,7 +7366,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0037.xml">berg_ostasien01_1864_0037.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7385,7 +7385,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0014.xml">berg_ostasien01_1864_0014.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7404,7 +7404,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0015.xml">berg_ostasien01_1864_0015.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7423,7 +7423,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0022.xml">berg_ostasien01_1864_0022.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7442,7 +7442,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0027.xml">berg_ostasien01_1864_0027.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7461,7 +7461,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0023.xml">berg_ostasien01_1864_0023.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7480,7 +7480,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0036.xml">berg_ostasien01_1864_0036.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7499,7 +7499,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0021.xml">berg_ostasien01_1864_0021.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7518,7 +7518,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasien01_1864/GT-PAGE/berg_ostasien01_1864_0018.xml">berg_ostasien01_1864_0018.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
