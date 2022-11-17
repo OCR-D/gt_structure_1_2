@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasien01_1864_0034"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:08:31.986</Created><LastChange>2008-06-16T16:56:00</LastChange></Metadata><Page imageFilename="../jpg/berg_ostasien01_1864_0034.jpg" imageWidth="2528" imageHeight="3322" type="content"><ReadingOrder><OrderedGroup id="d14" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="963,436 1058,436 1058,535 963,535"/></TextRegion><TextRegion type="header" id="region_2"><Coords points="1536,466 1801,466 1801,541 1536,541"/></TextRegion><TextRegion type="paragraph" id="region_3"><Coords points="930,550 2375,550 2375,2532 930,2532"/></TextRegion><SeparatorRegion id="region_4"><Coords points="1456,2560 1878,2560 1878,2645 1456,2645"/></SeparatorRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasien01_1864_0034">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:31</Created>
+	<LastChange>2022-11-17T18:21:27</LastChange></Metadata>
+	<Page imageFilename="../jpg/berg_ostasien01_1864_0034.jpg" imageWidth="2528" imageHeight="3322" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="r1" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="1013,480 1013,496 1014,496 1014,504 1019,504 1019,508 1015,508 1015,516 1013,516 1013,517 1004,517 1004,509 994,509 994,503 995,503 995,502 996,502 996,500 997,500 997,498 998,498 998,497 999,497 999,495 1000,495 1000,493 1001,493 1001,492 1002,492 1002,490 1003,490 1003,488 1004,488 1004,486 1005,486 1005,484 1006,484 1006,482 1007,482 1007,480"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="header">
+	<Coords points="1713,494 1713,495 1714,495 1714,505 1738,505 1738,507 1739,507 1739,508 1740,508 1740,509 1742,509 1742,510 1745,510 1745,511 1746,511 1746,513 1747,513 1747,514 1754,514 1754,520 1714,520 1714,521 1565,521 1565,495 1709,495 1709,494"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="1419,576 1419,577 1978,577 1978,576 2203,576 2203,577 2204,577 2204,587 2295,587 2295,588 2306,588 2306,589 2307,589 2307,594 2326,594 2326,703 2327,703 2327,817 2325,817 2325,1015 2327,1015 2327,1111 2372,1111 2372,1112 2373,1112 2373,1117 2372,1117 2372,1119 2328,1119 2328,1239 2327,1239 2327,1619 2326,1619 2326,1845 2327,1845 2327,1849 2326,1849 2326,1941 2321,1941 2321,1958 2201,1958 2201,2009 2200,2009 2200,2010 2199,2010 2199,2011 1978,2011 1978,2010 1745,2010 1745,2013 1737,2013 1737,2012 1726,2012 1726,2011 1724,2011 1724,2010 1702,2010 1702,2009 1247,2009 1247,2010 1162,2010 1162,2013 1140,2013 1140,2012 1006,2012 1006,2011 995,2011 995,2010 994,2010 994,2009 992,2009 992,2007 991,2007 991,1939 992,1939 992,1350 993,1350 993,1091 992,1091 992,1039 991,1039 991,978 992,978 992,759 993,759 993,758 994,758 994,698 995,698 995,605 996,605 996,604 997,604 997,603 998,603 998,601 999,601 999,599 1000,599 1000,597 1001,597 1001,594 1004,594 1004,585 1005,585 1005,581 1006,581 1006,578 1007,578 1007,577 1408,577 1408,576"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_4">
+	<Coords points="1878,2560 1878,2645 1456,2645 1456,2560"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1354,2030 1354,2036 1573,2036 1573,2031 1574,2031 1574,2030 1579,2030 1579,2031 2234,2031 2234,2032 2236,2032 2236,2034 2254,2034 2254,2035 2255,2035 2255,2037 2269,2037 2269,2039 2284,2039 2284,2043 2326,2043 2326,2044 2327,2044 2327,2045 2328,2045 2328,2051 2327,2051 2327,2052 2326,2052 2326,2370 2327,2370 2327,2371 2328,2371 2328,2376 2327,2376 2327,2434 2326,2434 2326,2435 2316,2435 2316,2444 2275,2444 2275,2445 2266,2445 2266,2446 2203,2446 2203,2452 2187,2452 2187,2455 2182,2455 2182,2447 1980,2447 1980,2454 1964,2454 1964,2455 1960,2455 1960,2447 1890,2447 1890,2446 1846,2446 1846,2445 1601,2445 1601,2450 1600,2450 1600,2452 1599,2452 1599,2454 1591,2454 1591,2499 1590,2499 1590,2500 1295,2500 1295,2501 1143,2501 1143,2502 1101,2502 1101,2503 1052,2503 1052,2504 995,2504 995,2448 994,2448 994,2433 993,2433 993,2402 992,2402 992,2401 991,2401 991,2277 992,2277 992,2155 993,2155 993,2099 1016,2099 1016,2088 1017,2088 1017,2087 1049,2087 1049,2086 1121,2086 1121,2085 1128,2085 1128,2060 1129,2060 1129,2059 1131,2059 1131,2057 1132,2057 1132,2056 1133,2056 1133,2054 1134,2054 1134,2049 1135,2049 1135,2047 1136,2047 1136,2045 1137,2045 1137,2041 1138,2041 1138,2038 1139,2038 1139,2034 1140,2034 1140,2032 1141,2032 1141,2031 1241,2031 1241,2030"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
