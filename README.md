@@ -45,7 +45,7 @@
       </thead>
       <tbody>
          <tr>
-            <td>5001</td>
+            <td>5035</td>
             <td>0</td>
             <td>0</td>
             <td>47</td>
@@ -358,7 +358,7 @@
                </tr>
                <tr>
                   <td>berg_ostasien01_1864</td>
-                  <td>66</td>
+                  <td>100</td>
                   <td/>
                   <td/>
                   <td/>
