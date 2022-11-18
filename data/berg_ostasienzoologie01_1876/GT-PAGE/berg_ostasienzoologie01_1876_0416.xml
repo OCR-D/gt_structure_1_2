@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienzoologie01_1876_0416"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:08:39.945</Created><LastChange>2008-05-22T13:05:32</LastChange></Metadata><Page imageFilename="../jpg/berg_ostasienzoologie01_1876_0416.jpg" imageWidth="2688" imageHeight="3422" type="content"><ReadingOrder><OrderedGroup id="d4" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TableRegion id="region_1"><Coords points="856,660 2535,660 2535,2665 856,2665"/></TableRegion><TextRegion type="signature-mark" id="region_2"><Coords points="986,2680 2078,2680 2078,2785 986,2785"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienzoologie01_1876_0416">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:39</Created>
+	<LastChange>2022-11-18T13:20:50</LastChange></Metadata>
+	<Page imageFilename="../jpg/berg_ostasienzoologie01_1876_0416.jpg" imageWidth="2688" imageHeight="3422" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="856,660 2535,660 2535,2665 856,2665"/></TableRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="1078,2708 1078,2709 1079,2709 1079,2711 1149,2711 1149,2712 1153,2712 1153,2714 1183,2714 1183,2718 1209,2718 1209,2719 1310,2719 1310,2714 1316,2714 1316,2715 1378,2715 1378,2716 1438,2716 1438,2717 1465,2717 1465,2718 1629,2718 1629,2719 1732,2719 1732,2720 1789,2720 1789,2721 1790,2721 1790,2723 1831,2723 1831,2726 1972,2726 1972,2720 1979,2720 1979,2727 2012,2727 2012,2728 2013,2728 2013,2734 2020,2734 2020,2740 1960,2740 1960,2745 1959,2745 1959,2746 1954,2746 1954,2745 1947,2745 1947,2740 1840,2740 1840,2739 1694,2739 1694,2740 1690,2740 1690,2739 1595,2739 1595,2738 1565,2738 1565,2737 1476,2737 1476,2736 1428,2736 1428,2735 1227,2735 1227,2737 1221,2737 1221,2739 1216,2739 1216,2738 1214,2738 1214,2737 1213,2737 1213,2732 1188,2732 1188,2731 1142,2731 1142,2730 1039,2730 1039,2731 1038,2731 1038,2732 1034,2732 1034,2720 1025,2720 1025,2719 1024,2719 1024,2714 1022,2714 1022,2710 1024,2710 1024,2709 1054,2709 1054,2708"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1426,577 1426,578 1617,578 1617,577 1622,577 1622,582 1623,582 1623,586 1787,586 1787,578 1865,578 1865,577 1940,577 1940,578 1963,578 1963,579 1983,579 1983,586 2029,586 2029,587 2030,587 2030,589 2031,589 2031,597 2038,597 2038,603 2008,603 2008,604 1863,604 1863,605 1845,605 1845,604 1669,604 1669,609 1656,609 1656,612 1651,612 1651,604 1473,604 1473,605 1469,605 1469,604 1414,604 1414,602 1413,602 1413,600 1412,600 1412,597 1411,597 1411,595 1410,595 1410,593 1409,593 1409,591 1408,591 1408,588 1407,588 1407,586 1406,586 1406,584 1405,584 1405,582 1404,582 1404,578 1405,578 1405,577"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="883,571 883,572 935,572 935,573 937,573 937,574 939,574 939,575 940,575 940,576 941,576 941,579 942,579 942,591 943,591 943,603 942,603 942,604 941,604 941,605 940,605 940,606 939,606 939,607 937,607 937,608 910,608 910,609 908,609 908,610 898,610 898,609 897,609 897,608 873,608 873,607 871,607 871,605 870,605 870,604 869,604 869,602 868,602 868,598 869,598 869,574 870,574 870,572 872,572 872,571"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

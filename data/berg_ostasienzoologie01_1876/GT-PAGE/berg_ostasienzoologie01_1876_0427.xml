@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienzoologie01_1876_0427"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:08:39.945</Created><LastChange>2008-05-22T13:06:05</LastChange></Metadata><Page imageFilename="../jpg/berg_ostasienzoologie01_1876_0427.jpg" imageWidth="2688" imageHeight="3422" type="content"><ReadingOrder><OrderedGroup id="d20" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TableRegion id="region_1"><Coords points="130,633 1869,633 1869,2722 130,2722"/></TableRegion><TextRegion type="signature-mark" id="region_2"><Coords points="186,2720 1715,2720 1715,2805 186,2805"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienzoologie01_1876_0427">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:39</Created>
+	<LastChange>2022-11-18T13:25:27</LastChange></Metadata>
+	<Page imageFilename="../jpg/berg_ostasienzoologie01_1876_0427.jpg" imageWidth="2688" imageHeight="3422" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="130,633 1869,633 1869,2722 130,2722"/></TableRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="1214,2745 1242,2744 1605,2744 1605,2740 1606,2740 1606,2739 1612,2739 1612,2738 1619,2738 1619,2737 1631,2737 1631,2742 1630,2742 1630,2744 1629,2744 1629,2746 1628,2746 1628,2755 1627,2755 1627,2756 540,2756 540,2762 539,2762 539,2763 498,2763 498,2764 454,2764 454,2765 448,2765 448,2769 447,2769 447,2770 434,2770 434,2768 249,2768 249,2767 220,2767 220,2766 218,2766 218,2765 217,2765 217,2763 216,2763 216,2760 215,2760 215,2755 216,2755 216,2752 217,2752 217,2750 219,2750 219,2749 303,2749 303,2748 304,2748 304,2747 370,2747 370,2746 448,2746 448,2745 526,2745 526,2744 805,2744 827,2746"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1136,553 1136,554 1228,554 1228,555 1248,555 1248,562 1293,562 1293,563 1294,563 1294,564 1295,564 1295,565 1296,565 1296,573 1303,573 1303,574 1304,574 1304,580 1303,580 1303,581 1079,581 1079,582 971,582 971,583 933,583 933,588 921,588 921,592 917,592 917,591 915,591 915,590 914,590 914,584 748,584 748,585 675,585 675,583 674,583 674,581 673,581 673,578 672,578 672,576 671,576 671,574 670,574 670,571 669,571 669,569 668,569 668,567 667,567 667,564 666,564 666,562 665,562 665,558 680,558 680,557 880,557 880,556 886,556 886,557 887,557 887,564 1016,564 1016,563 1052,563 1052,554 1129,554 1129,553"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1819,542 1819,543 1820,543 1820,544 1821,544 1821,545 1822,545 1822,547 1823,547 1823,549 1824,549 1824,551 1825,551 1825,567 1824,567 1824,571 1823,571 1823,574 1822,574 1822,575 1821,575 1821,577 1820,577 1820,578 1818,578 1818,579 1816,579 1816,580 1791,580 1791,581 1757,581 1757,580 1756,580 1756,573 1752,573 1752,572 1750,572 1750,567 1751,567 1751,565 1752,565 1752,563 1753,563 1753,561 1754,561 1754,559 1755,559 1755,557 1756,557 1756,555 1757,555 1757,554 1758,554 1758,552 1759,552 1759,550 1760,550 1760,548 1761,548 1761,547 1762,547 1762,544 1763,544 1763,543 1785,543 1785,542"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
