@@ -1304,13 +1304,13 @@
             </tr>
             <tr>
                <th>bernd_lebensbeschreibung_1738</th>
-               <td>93</td>
+               <td>105</td>
                <td>0</td>
                <td>0</td>
+               <td>2</td>
                <td>0</td>
                <td>0</td>
-               <td>0</td>
-               <td>4</td>
+               <td>24</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -1355,7 +1355,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1368,13 +1368,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0012.xml">bernd_lebensbeschreibung_1738_0012.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1387,13 +1387,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0029.xml">bernd_lebensbeschreibung_1738_0029.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1412,7 +1412,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1425,13 +1425,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0026.xml">bernd_lebensbeschreibung_1738_0026.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1450,7 +1450,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1469,7 +1469,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1488,7 +1488,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1507,7 +1507,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1520,13 +1520,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0037.xml">bernd_lebensbeschreibung_1738_0037.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1545,7 +1545,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1564,7 +1564,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1583,7 +1583,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1602,7 +1602,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1621,7 +1621,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1634,13 +1634,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0807.xml">bernd_lebensbeschreibung_1738_0807.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>1</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1659,7 +1659,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1672,13 +1672,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0049.xml">bernd_lebensbeschreibung_1738_0049.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1697,7 +1697,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1716,7 +1716,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1729,13 +1729,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0033.xml">bernd_lebensbeschreibung_1738_0033.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1754,7 +1754,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1767,13 +1767,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0014.xml">bernd_lebensbeschreibung_1738_0014.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1786,13 +1786,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0009.xml">bernd_lebensbeschreibung_1738_0009.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>1</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1805,10 +1805,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0007.xml">bernd_lebensbeschreibung_1738_0007.xml</a>
                            </td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>2</td>
@@ -13898,7 +13898,7 @@
             </tr>
             <tr>
                <th>berlepsch_alpen_1861</th>
-               <td>28</td>
+               <td>50</td>
                <td>0</td>
                <td>0</td>
                <td>16</td>
@@ -13943,7 +13943,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0137.xml">berlepsch_alpen_1861_0137.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -13962,7 +13962,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0223.xml">berlepsch_alpen_1861_0223.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -13981,7 +13981,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0321.xml">berlepsch_alpen_1861_0321.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14000,7 +14000,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0103.xml">berlepsch_alpen_1861_0103.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14019,7 +14019,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0113.xml">berlepsch_alpen_1861_0113.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14038,7 +14038,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0427.xml">berlepsch_alpen_1861_0427.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14057,7 +14057,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0399.xml">berlepsch_alpen_1861_0399.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14076,7 +14076,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0337.xml">berlepsch_alpen_1861_0337.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -14095,7 +14095,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0063.xml">berlepsch_alpen_1861_0063.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14114,7 +14114,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0367.xml">berlepsch_alpen_1861_0367.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14133,7 +14133,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0279.xml">berlepsch_alpen_1861_0279.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14152,7 +14152,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0455.xml">berlepsch_alpen_1861_0455.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14171,7 +14171,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0243.xml">berlepsch_alpen_1861_0243.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14190,7 +14190,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0433.xml">berlepsch_alpen_1861_0433.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -14209,7 +14209,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0413.xml">berlepsch_alpen_1861_0413.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14228,7 +14228,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0473.xml">berlepsch_alpen_1861_0473.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14247,7 +14247,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0085.xml">berlepsch_alpen_1861_0085.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -14266,7 +14266,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0082.xml">berlepsch_alpen_1861_0082.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -14285,7 +14285,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0335.xml">berlepsch_alpen_1861_0335.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -14304,7 +14304,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berlepsch_alpen_1861/GT-PAGE/berlepsch_alpen_1861_0441.xml">berlepsch_alpen_1861_0441.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -17637,13 +17637,13 @@
             </tr>
             <tr>
                <th>berg_ostasienzoologie02_1867</th>
-               <td>76</td>
+               <td>97</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>6</td>
                <td>0</td>
-               <td>1</td>
+               <td>4</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -17682,7 +17682,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0452.xml">berg_ostasienzoologie02_1867_0452.xml</a>
                            </td>
-                           <td>6</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17701,7 +17701,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0427.xml">berg_ostasienzoologie02_1867_0427.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17720,7 +17720,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0025.xml">berg_ostasienzoologie02_1867_0025.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17739,7 +17739,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0039.xml">berg_ostasienzoologie02_1867_0039.xml</a>
                            </td>
-                           <td>7</td>
+                           <td>9</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17758,7 +17758,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0422.xml">berg_ostasienzoologie02_1867_0422.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17777,7 +17777,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0423.xml">berg_ostasienzoologie02_1867_0423.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17796,7 +17796,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0426.xml">berg_ostasienzoologie02_1867_0426.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17815,7 +17815,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0035.xml">berg_ostasienzoologie02_1867_0035.xml</a>
                            </td>
-                           <td>8</td>
+                           <td>11</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17834,7 +17834,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0459.xml">berg_ostasienzoologie02_1867_0459.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17853,7 +17853,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0034.xml">berg_ostasienzoologie02_1867_0034.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17872,13 +17872,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0467.xml">berg_ostasienzoologie02_1867_0467.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17910,7 +17910,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0424.xml">berg_ostasienzoologie02_1867_0424.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17929,7 +17929,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0037.xml">berg_ostasienzoologie02_1867_0037.xml</a>
                            </td>
-                           <td>8</td>
+                           <td>11</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17948,7 +17948,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0425.xml">berg_ostasienzoologie02_1867_0425.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -17967,7 +17967,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0454.xml">berg_ostasienzoologie02_1867_0454.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -18011,7 +18011,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -18024,7 +18024,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie02_1867/GT-PAGE/berg_ostasienzoologie02_1867_0027.xml">berg_ostasienzoologie02_1867_0027.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19108,7 +19108,7 @@
             </tr>
             <tr>
                <th>beseler_volksrecht_1843</th>
-               <td>62</td>
+               <td>74</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -19153,7 +19153,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0261.xml">beseler_volksrecht_1843_0261.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19172,7 +19172,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0245.xml">beseler_volksrecht_1843_0245.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19191,7 +19191,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0355.xml">beseler_volksrecht_1843_0355.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19210,7 +19210,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0213.xml">beseler_volksrecht_1843_0213.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19286,7 +19286,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0019.xml">beseler_volksrecht_1843_0019.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19305,7 +19305,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0115.xml">beseler_volksrecht_1843_0115.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19362,7 +19362,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0263.xml">beseler_volksrecht_1843_0263.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19438,7 +19438,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0317.xml">beseler_volksrecht_1843_0317.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19457,7 +19457,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0289.xml">beseler_volksrecht_1843_0289.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19476,7 +19476,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0359.xml">beseler_volksrecht_1843_0359.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -19514,7 +19514,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/beseler_volksrecht_1843/GT-PAGE/beseler_volksrecht_1843_0297.xml">beseler_volksrecht_1843_0297.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22249,13 +22249,13 @@
             </tr>
             <tr>
                <th>berg_ostasienbotanik_1866</th>
-               <td>47</td>
+               <td>75</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>10</td>
                <td>0</td>
-               <td>0</td>
+               <td>1</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -22294,7 +22294,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0091.xml">berg_ostasienbotanik_1866_0091.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22313,7 +22313,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0018.xml">berg_ostasienbotanik_1866_0018.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22332,7 +22332,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0107.xml">berg_ostasienbotanik_1866_0107.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22351,7 +22351,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0062.xml">berg_ostasienbotanik_1866_0062.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22389,7 +22389,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0017.xml">berg_ostasienbotanik_1866_0017.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22414,7 +22414,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22427,7 +22427,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0076.xml">berg_ostasienbotanik_1866_0076.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22446,7 +22446,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0123.xml">berg_ostasienbotanik_1866_0123.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22465,7 +22465,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0060.xml">berg_ostasienbotanik_1866_0060.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22484,7 +22484,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0016.xml">berg_ostasienbotanik_1866_0016.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22503,7 +22503,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0063.xml">berg_ostasienbotanik_1866_0063.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22522,7 +22522,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0160.xml">berg_ostasienbotanik_1866_0160.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22541,7 +22541,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0093.xml">berg_ostasienbotanik_1866_0093.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22560,7 +22560,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0104.xml">berg_ostasienbotanik_1866_0104.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22579,7 +22579,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0024.xml">berg_ostasienbotanik_1866_0024.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22617,7 +22617,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0015.xml">berg_ostasienbotanik_1866_0015.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22636,7 +22636,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0077.xml">berg_ostasienbotanik_1866_0077.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22655,7 +22655,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienbotanik_1866/GT-PAGE/berg_ostasienbotanik_1866_0139.xml">berg_ostasienbotanik_1866_0139.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -23891,13 +23891,13 @@
             </tr>
             <tr>
                <th>berg_ostasienzoologie01_1876</th>
-               <td>39</td>
+               <td>72</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>9</td>
                <td>0</td>
-               <td>0</td>
+               <td>1</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -23936,7 +23936,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0224.xml">berg_ostasienzoologie01_1876_0224.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -23955,7 +23955,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0419.xml">berg_ostasienzoologie01_1876_0419.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -23974,7 +23974,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0416.xml">berg_ostasienzoologie01_1876_0416.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -23993,7 +23993,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0371.xml">berg_ostasienzoologie01_1876_0371.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24012,7 +24012,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0041.xml">berg_ostasienzoologie01_1876_0041.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24031,7 +24031,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0362.xml">berg_ostasienzoologie01_1876_0362.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24056,7 +24056,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24069,7 +24069,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0403.xml">berg_ostasienzoologie01_1876_0403.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24088,7 +24088,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0039.xml">berg_ostasienzoologie01_1876_0039.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24107,7 +24107,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0427.xml">berg_ostasienzoologie01_1876_0427.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24126,7 +24126,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0389.xml">berg_ostasienzoologie01_1876_0389.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24145,7 +24145,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0405.xml">berg_ostasienzoologie01_1876_0405.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24164,7 +24164,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0374.xml">berg_ostasienzoologie01_1876_0374.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24202,7 +24202,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0368.xml">berg_ostasienzoologie01_1876_0368.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24221,7 +24221,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0421.xml">berg_ostasienzoologie01_1876_0421.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24240,7 +24240,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0387.xml">berg_ostasienzoologie01_1876_0387.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24259,7 +24259,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0373.xml">berg_ostasienzoologie01_1876_0373.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24278,7 +24278,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0370.xml">berg_ostasienzoologie01_1876_0370.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -24297,7 +24297,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/berg_ostasienzoologie01_1876/GT-PAGE/berg_ostasienzoologie01_1876_0244.xml">berg_ostasienzoologie01_1876_0244.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

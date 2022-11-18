@@ -132,6 +132,11 @@ An image database</p>
          <strong>Description: </strong>Titles repeated each page</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+      <p>
+         <strong>Description: </strong>Drap capitals (large capitals at beginning of paragraph)</p>
+   </details>
+   <details>
       <summary>granularity/logical/document-related/paragraph</summary>
       <p>
          <strong>Description: </strong>
@@ -165,7 +170,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v12/bagitDump-v12.zip">Current version download: bagitDump-v12.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v13/bagitDump-v13.zip">Current version download: bagitDump-v13.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_2/releases">Version archive</a>
@@ -325,13 +330,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>5088</td>
+            <td>5216</td>
             <td>0</td>
             <td>0</td>
-            <td>48</td>
+            <td>50</td>
             <td>28</td>
             <td>0</td>
-            <td>141</td>
+            <td>166</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>

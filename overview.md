@@ -1167,7 +1167,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1180,13 +1180,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0012.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1199,13 +1199,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0029.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1224,7 +1224,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1237,13 +1237,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0026.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1262,7 +1262,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1281,7 +1281,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1300,7 +1300,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1319,7 +1319,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1332,13 +1332,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0037.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1357,7 +1357,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1376,7 +1376,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1395,7 +1395,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1414,7 +1414,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1433,7 +1433,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1446,13 +1446,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0807.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
-         <td>1</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1471,7 +1471,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1484,13 +1484,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0049.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1509,7 +1509,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1528,7 +1528,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1541,13 +1541,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0033.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1566,7 +1566,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1579,13 +1579,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0014.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1598,13 +1598,13 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0009.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>1</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1617,10 +1617,10 @@
       </tr>
       <tr>
          <th>bernd_lebensbeschreibung_1738_0007.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0 0</td>
          <td>2</td>
@@ -12580,7 +12580,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0137.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12599,7 +12599,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0223.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12618,7 +12618,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0321.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12637,7 +12637,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0103.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12656,7 +12656,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0113.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12675,7 +12675,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0427.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12694,7 +12694,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0399.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12713,7 +12713,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0337.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12732,7 +12732,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0063.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12751,7 +12751,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0367.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12770,7 +12770,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0279.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12789,7 +12789,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0455.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12808,7 +12808,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0243.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12827,7 +12827,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0433.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12846,7 +12846,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0413.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12865,7 +12865,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0473.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12884,7 +12884,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0085.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12903,7 +12903,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0082.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12922,7 +12922,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0335.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12941,7 +12941,7 @@
       </tr>
       <tr>
          <th>berlepsch_alpen_1861_0441.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -15943,177 +15943,6 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie02_1867_0452.xml</th>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0427.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0025.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0039.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0422.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0423.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0426.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0035.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0459.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienzoologie02_1867_0034.xml</th>
          <td>5</td>
          <td>0</td>
          <td>0</td>
@@ -16132,14 +15961,185 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>berg_ostasienzoologie02_1867_0467.xml</th>
+         <th>berg_ostasienzoologie02_1867_0427.xml</th>
          <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0025.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0039.xml</th>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0422.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0423.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0426.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0035.xml</th>
+         <td>11</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0459.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0034.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienzoologie02_1867_0467.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16171,7 +16171,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie02_1867_0424.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16190,7 +16190,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie02_1867_0037.xml</th>
-         <td>8</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16209,7 +16209,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie02_1867_0425.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16228,7 +16228,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie02_1867_0454.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16272,7 +16272,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16285,7 +16285,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie02_1867_0027.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17273,7 +17273,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0261.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17292,7 +17292,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0245.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17311,7 +17311,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0355.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17330,7 +17330,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0213.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17406,7 +17406,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0019.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17425,7 +17425,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0115.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17482,7 +17482,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0263.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17558,7 +17558,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0317.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17577,7 +17577,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0289.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17596,7 +17596,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0359.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17634,7 +17634,7 @@
       </tr>
       <tr>
          <th>beseler_volksrecht_1843_0297.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20085,7 +20085,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0091.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20104,7 +20104,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0018.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20123,7 +20123,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0107.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20142,7 +20142,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0062.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20180,7 +20180,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0017.xml</th>
-         <td>5</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20205,7 +20205,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20218,7 +20218,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0076.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20237,7 +20237,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0123.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20256,7 +20256,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0060.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20275,44 +20275,6 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0016.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienbotanik_1866_0063.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasienbotanik_1866_0160.xml</th>
          <td>3</td>
          <td>0</td>
          <td>0</td>
@@ -20331,8 +20293,46 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>berg_ostasienbotanik_1866_0093.xml</th>
+         <th>berg_ostasienbotanik_1866_0063.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienbotanik_1866_0160.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasienbotanik_1866_0093.xml</th>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20351,7 +20351,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0104.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20370,7 +20370,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0024.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20408,7 +20408,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0015.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20427,7 +20427,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0077.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20446,7 +20446,7 @@
       </tr>
       <tr>
          <th>berg_ostasienbotanik_1866_0139.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21586,7 +21586,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0224.xml</th>
-         <td>1</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21605,7 +21605,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0419.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21624,7 +21624,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0416.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21643,7 +21643,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0371.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21662,7 +21662,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0041.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21681,7 +21681,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0362.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21706,7 +21706,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21719,7 +21719,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0403.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21738,7 +21738,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0039.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21757,7 +21757,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0427.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21776,7 +21776,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0389.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21795,7 +21795,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0405.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21814,7 +21814,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0374.xml</th>
-         <td>5</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21852,7 +21852,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0368.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21871,7 +21871,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0421.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21890,7 +21890,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0387.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21909,7 +21909,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0373.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21928,7 +21928,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0370.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21947,7 +21947,7 @@
       </tr>
       <tr>
          <th>berg_ostasienzoologie01_1876_0244.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
