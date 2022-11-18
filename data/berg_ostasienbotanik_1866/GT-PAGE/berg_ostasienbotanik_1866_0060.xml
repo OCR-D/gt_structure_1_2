@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienbotanik_1866_0060"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:08:38.308</Created><LastChange>2008-06-17T16:03:20</LastChange></Metadata><Page imageFilename="../jpg/berg_ostasienbotanik_1866_0060.jpg" imageWidth="2522" imageHeight="3427" type="content"><ReadingOrder><OrderedGroup id="d10" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="heading" custom="#heading_level3" id="region_1"><Coords points="1013,660 2368,660 2368,822 1013,822"/></TextRegion><TableRegion id="region_2"><Coords points="933,820 2378,820 2378,2772 933,2772"/></TableRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienbotanik_1866_0060">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:38</Created>
+	<LastChange>2022-11-18T12:34:22</LastChange></Metadata>
+	<Page imageFilename="../jpg/berg_ostasienbotanik_1866_0060.jpg" imageWidth="2522" imageHeight="3427" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="region_1" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level3" type="heading">
+	<Coords points="2154,691 2154,692 2181,692 2181,693 2182,693 2182,695 2239,695 2239,709 2250,709 2250,710 2251,710 2251,711 2316,711 2316,712 2328,712 2328,713 2329,713 2329,715 2330,715 2330,720 2329,720 2329,723 2328,723 2328,807 2327,807 2327,808 2321,808 2321,807 2292,807 2292,806 2188,806 2188,814 2178,814 2178,801 2137,801 2137,800 2122,800 2122,799 2121,799 2121,798 2077,798 2077,797 2075,797 2075,796 2058,796 2058,795 2041,795 2041,794 2029,794 2029,793 2027,793 2027,792 2026,792 2026,791 1980,791 1980,790 1921,790 1921,789 1907,789 1907,788 1871,788 1871,787 1761,787 1761,789 1760,789 1760,791 1759,791 1759,792 1758,792 1758,793 1757,793 1757,794 1754,794 1754,795 1744,795 1744,794 1741,794 1741,793 1739,793 1739,792 1738,792 1738,791 1737,791 1737,783 1729,783 1729,782 1696,782 1696,781 1682,781 1682,780 1581,780 1581,782 1580,782 1580,784 1579,784 1579,785 1578,785 1578,786 1575,786 1575,787 1564,787 1564,786 1561,786 1561,785 1519,785 1519,783 1513,783 1513,782 1511,782 1511,781 1510,781 1510,771 1467,771 1467,770 1435,770 1435,769 1423,769 1423,768 1422,768 1422,767 1421,767 1421,766 1420,766 1420,764 1419,764 1419,761 1418,761 1418,757 1419,757 1419,752 1420,752 1420,750 1421,750 1421,749 1422,749 1422,748 1423,748 1423,747 1434,747 1434,735 1441,735 1441,747 1461,747 1461,748 1463,748 1463,749 1464,749 1464,750 1553,750 1553,751 1554,751 1554,752 1671,752 1671,750 1672,750 1672,749 1687,749 1687,750 1736,750 1736,759 1841,759 1841,757 1842,757 1842,755 1843,755 1843,754 1852,754 1852,752 1857,752 1857,753 1864,753 1864,755 1952,755 1952,756 1953,756 1953,759 1954,759 1954,760 2046,760 2046,761 2047,761 2047,762 2143,762 2143,716 2144,716 2144,692 2145,692 2145,691"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="933,820 2367,870 2378,2772 933,2772"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="999,436 999,536 1118,536 1118,436"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

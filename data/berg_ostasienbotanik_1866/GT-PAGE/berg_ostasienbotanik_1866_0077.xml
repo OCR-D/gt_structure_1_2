@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienbotanik_1866_0077"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:08:38.308</Created><LastChange>2008-06-17T16:04:07</LastChange></Metadata><Page imageFilename="../jpg/berg_ostasienbotanik_1866_0077.jpg" imageWidth="2521" imageHeight="3427" type="content"><ReadingOrder><OrderedGroup id="d22" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/></OrderedGroup></ReadingOrder><TableRegion id="region_1"><Coords points="143,696 1625,696 1625,2718 143,2718"/></TableRegion><TextRegion type="footnote-continued" id="region_2"><Coords points="183,2793 935,2793 935,2882 183,2882"/></TextRegion><TextRegion type="signature-mark" id="region_3"><Coords points="1270,2823 1349,2823 1349,2888 1270,2888"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienbotanik_1866_0077">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:38</Created>
+	<LastChange>2022-11-18T12:34:45</LastChange></Metadata>
+	<Page imageFilename="../jpg/berg_ostasienbotanik_1866_0077.jpg" imageWidth="2521" imageHeight="3427" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="143,696 1625,696 1625,2718 143,2718"/></TableRegion>
+	<TextRegion id="region_2" type="footnote-continued">
+	<Coords points="873,2808 873,2809 875,2809 875,2813 894,2813 894,2816 895,2816 895,2817 897,2817 897,2827 905,2827 905,2828 906,2828 906,2834 905,2834 905,2835 816,2835 816,2836 752,2836 752,2837 718,2837 718,2838 689,2838 689,2839 653,2839 653,2840 580,2840 580,2845 568,2845 568,2849 563,2849 563,2848 562,2848 562,2843 374,2843 374,2846 373,2846 373,2847 372,2847 372,2848 367,2848 367,2843 336,2843 336,2842 235,2842 235,2845 225,2845 225,2849 220,2849 220,2848 219,2848 219,2847 217,2847 217,2825 218,2825 218,2824 219,2824 219,2823 221,2823 221,2822 302,2822 302,2815 309,2815 309,2816 310,2816 310,2824 418,2824 418,2817 419,2817 419,2816 461,2816 461,2815 536,2815 536,2814 598,2814 598,2813 646,2813 646,2812 710,2812 710,2810 744,2810 744,2809 811,2809 811,2808"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="1329,2848 1329,2856 1315,2856 1315,2865 1314,2865 1314,2867 1313,2867 1313,2869 1302,2869 1302,2868 1301,2868 1301,2867 1300,2867 1300,2862 1301,2862 1301,2849 1321,2849 1321,2848"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1494,608 1494,609 1495,609 1495,614 1494,614 1494,616 1493,616 1493,618 1492,618 1492,620 1491,620 1491,622 1490,622 1490,624 1489,624 1489,626 1488,626 1488,630 1487,630 1487,644 1486,644 1486,646 1484,646 1484,647 1479,647 1479,646 1454,646 1454,645 1452,645 1452,644 1451,644 1451,643 1450,643 1450,641 1449,641 1449,639 1448,639 1448,637 1447,637 1447,632 1446,632 1446,623 1447,623 1447,617 1448,617 1448,614 1449,614 1449,613 1450,613 1450,612 1452,612 1452,611 1453,611 1453,610 1459,610 1459,608"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="867,634 867,635 868,635 868,642 869,642 869,643 885,643 885,644 886,644 886,645 887,645 887,653 896,653 896,654 897,654 897,660 896,660 896,661 877,661 877,662 828,662 828,663 766,663 766,664 740,664 740,665 698,665 698,666 612,666 612,667 542,667 542,668 533,668 533,669 427,669 427,670 409,670 409,671 360,671 360,672 353,672 353,677 352,677 352,678 334,678 334,672 188,672 188,669 187,669 187,667 186,667 186,665 185,665 185,663 184,663 184,661 183,661 183,659 182,659 182,658 181,658 181,654 182,654 182,653 253,653 253,645 254,645 254,644 383,644 383,643 448,643 448,642 567,642 567,639 639,639 639,638 798,638 798,635 861,635 861,634"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

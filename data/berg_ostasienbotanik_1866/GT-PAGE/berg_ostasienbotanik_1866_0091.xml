@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienbotanik_1866_0091"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:08:38.308</Created><LastChange>2008-06-17T16:04:24</LastChange></Metadata><Page imageFilename="../jpg/berg_ostasienbotanik_1866_0091.jpg" imageWidth="2521" imageHeight="3427" type="content"><ReadingOrder><OrderedGroup id="d18" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TableRegion id="region_1"><Coords points="146,700 1568,700 1568,2809 146,2809"/></TableRegion><TextRegion type="signature-mark" id="region_2"><Coords points="226,2806 1361,2806 1361,2881 226,2881"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-berg_ostasienbotanik_1866_0091">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:38</Created>
+	<LastChange>2022-11-18T12:34:50</LastChange></Metadata>
+	<Page imageFilename="../jpg/berg_ostasienbotanik_1866_0091.jpg" imageWidth="2521" imageHeight="3427" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="146,700 1568,700 1568,2809 146,2809"/></TableRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="256,2843 1342,2822 1342,2852 256,2866"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1497,583 1497,600 1498,600 1498,614 1499,614 1499,616 1503,616 1503,620 1500,620 1500,621 1473,621 1473,622 1464,622 1464,621 1461,621 1461,620 1460,620 1460,619 1458,619 1458,618 1457,618 1457,616 1456,616 1456,608 1457,608 1457,591 1458,591 1458,588 1472,588 1472,587 1485,587 1485,585 1490,585 1490,584 1492,584 1492,583"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="195,596 195,597 206,597 206,598 217,598 217,599 228,599 228,600 239,600 239,601 250,601 250,602 261,602 261,603 273,603 273,604 284,604 284,605 295,605 295,606 306,606 306,607 316,607 316,608 327,608 327,609 338,609 338,610 349,610 349,611 360,611 360,612 371,612 371,613 382,613 382,614 393,614 393,615 404,615 404,616 416,616 416,617 478,617 478,616 578,616 578,614 711,614 711,613 731,613 731,612 810,612 810,610 874,610 874,608 880,608 880,617 896,617 896,618 898,618 898,619 899,619 899,627 900,627 900,628 908,628 908,629 909,629 909,635 908,635 908,636 851,636 851,637 782,637 782,638 749,638 749,639 724,639 724,640 691,640 691,641 613,641 613,642 552,642 552,643 497,643 497,644 426,644 426,645 379,645 379,646 364,646 364,650 362,650 362,653 361,653 361,654 359,654 359,655 349,655 349,654 347,654 347,653 346,653 346,652 345,652 345,648 198,648 198,646 197,646 197,643 196,643 196,641 195,641 195,638 194,638 194,635 193,635 193,631 194,631 194,630 213,630 213,629 266,629 266,619 321,619 321,618 366,618 366,616 355,616 355,615 344,615 344,614 333,614 333,613 322,613 322,612 311,612 311,611 301,611 301,610 290,610 290,609 279,609 279,608 268,608 268,607 256,607 256,606 245,606 245,605 234,605 234,604 223,604 223,603 212,603 212,602 201,602 201,601 190,601 190,600 185,600 185,596"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
