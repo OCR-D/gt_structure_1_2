@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5088</td>
+            <td>5216</td>
             <td>0</td>
             <td>0</td>
-            <td>48</td>
+            <td>50</td>
             <td>28</td>
             <td>0</td>
-            <td>141</td>
+            <td>166</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -130,13 +130,13 @@
                </tr>
                <tr>
                   <td>bernd_lebensbeschreibung_1738</td>
-                  <td>93</td>
+                  <td>105</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>24</td>
                   <td/>
                   <td/>
                   <td/>
@@ -605,7 +605,7 @@
                </tr>
                <tr>
                   <td>berlepsch_alpen_1861</td>
-                  <td>28</td>
+                  <td>50</td>
                   <td/>
                   <td/>
                   <td>16</td>
@@ -757,13 +757,13 @@
                </tr>
                <tr>
                   <td>berg_ostasienzoologie02_1867</td>
-                  <td>76</td>
+                  <td>97</td>
                   <td/>
                   <td/>
                   <td/>
                   <td>6</td>
                   <td/>
-                  <td>1</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -814,7 +814,7 @@
                </tr>
                <tr>
                   <td>beseler_volksrecht_1843</td>
-                  <td>62</td>
+                  <td>74</td>
                   <td/>
                   <td/>
                   <td/>
@@ -947,13 +947,13 @@
                </tr>
                <tr>
                   <td>berg_ostasienbotanik_1866</td>
-                  <td>47</td>
+                  <td>75</td>
                   <td/>
                   <td/>
                   <td/>
                   <td>10</td>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1004,13 +1004,13 @@
                </tr>
                <tr>
                   <td>berg_ostasienzoologie01_1876</td>
-                  <td>39</td>
+                  <td>72</td>
                   <td/>
                   <td/>
                   <td/>
                   <td>9</td>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
