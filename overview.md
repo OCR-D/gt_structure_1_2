@@ -4752,7 +4752,7 @@
       </tr>
       <tr>
          <th>berg_ostasien02_1866_0024.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4771,7 +4771,7 @@
       </tr>
       <tr>
          <th>berg_ostasien02_1866_0033.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4809,7 +4809,7 @@
       </tr>
       <tr>
          <th>berg_ostasien02_1866_0029.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14632,7 +14632,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0021.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14651,7 +14651,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0027.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14670,7 +14670,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0028.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14689,7 +14689,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0026.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14714,7 +14714,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14727,7 +14727,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0017.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14746,7 +14746,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0032.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14765,7 +14765,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0031.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14784,7 +14784,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0019.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14822,7 +14822,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0029.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14841,7 +14841,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0016.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14860,10 +14860,10 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0121.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -14879,7 +14879,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0289.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14898,7 +14898,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0287.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14917,7 +14917,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0030.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14936,7 +14936,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0015.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14974,7 +14974,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0288.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -14993,7 +14993,7 @@
       </tr>
       <tr>
          <th>berg_ostasien03_1873_0033.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23163,7 +23163,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0024.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23182,13 +23182,13 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0461.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23201,7 +23201,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0023.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23220,13 +23220,13 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0454.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23239,7 +23239,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0037.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23258,13 +23258,13 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0459.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23277,25 +23277,6 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0018.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>berg_ostasien04_1873_0455.xml</th>
          <td>5</td>
          <td>0</td>
          <td>0</td>
@@ -23314,8 +23295,27 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>berg_ostasien04_1873_0031.xml</th>
+         <th>berg_ostasien04_1873_0455.xml</th>
          <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>berg_ostasien04_1873_0031.xml</th>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23334,13 +23334,13 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0460.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23372,7 +23372,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0028.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23397,7 +23397,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23410,13 +23410,13 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0457.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23435,7 +23435,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23448,7 +23448,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0027.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23486,7 +23486,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0026.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23505,13 +23505,13 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0456.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23524,7 +23524,7 @@
       </tr>
       <tr>
          <th>berg_ostasien04_1873_0020.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>

@@ -62,6 +62,11 @@ OCR
 Object / shape recognition (e.g. table separator detection)</p>
    </details>
    <details>
+      <summary>condition/wear/additions/informative/stamps</summary>
+      <p>
+         <strong>Description: </strong>The medium was stamped</p>
+   </details>
+   <details>
       <summary>content-encoding/structured</summary>
       <p>
          <strong>Description: </strong>E.g. XML</p>
@@ -160,7 +165,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v12/bagitDump-v12.zip">Current version download: bagitDump-v12.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_2/releases">Version archive</a>
@@ -320,13 +325,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>5035</td>
+            <td>5088</td>
             <td>0</td>
             <td>0</td>
-            <td>47</td>
+            <td>48</td>
             <td>28</td>
             <td>0</td>
-            <td>130</td>
+            <td>141</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
