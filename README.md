@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5035</td>
+            <td>5088</td>
             <td>0</td>
             <td>0</td>
-            <td>47</td>
+            <td>48</td>
             <td>28</td>
             <td>0</td>
-            <td>130</td>
+            <td>141</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -282,7 +282,7 @@
                </tr>
                <tr>
                   <td>berg_ostasien02_1866</td>
-                  <td>93</td>
+                  <td>98</td>
                   <td/>
                   <td/>
                   <td/>
@@ -700,13 +700,13 @@
                </tr>
                <tr>
                   <td>berg_ostasien03_1873</td>
-                  <td>62</td>
+                  <td>92</td>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>5</td>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1080,13 +1080,13 @@
                </tr>
                <tr>
                   <td>berg_ostasien04_1873</td>
-                  <td>66</td>
+                  <td>84</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
