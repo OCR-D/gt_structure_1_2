@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5355</td>
+            <td>5364</td>
             <td>1</td>
             <td>0</td>
-            <td>76</td>
+            <td>100</td>
             <td>28</td>
             <td>0</td>
-            <td>220</td>
+            <td>219</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -890,13 +890,13 @@
                </tr>
                <tr>
                   <td>blum_spatziergaenge02_1775</td>
-                  <td>57</td>
+                  <td>66</td>
                   <td/>
                   <td/>
+                  <td>24</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
