@@ -110,6 +110,13 @@ An image database</p>
                     </p>
    </details>
    <details>
+      <summary>contentOfInterest/visual/image</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>data-attributes/document-related/structural/endnote</summary>
       <p>
          <strong>Description: </strong>
@@ -170,7 +177,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v14/bagitDump-v14.zip">Current version download: bagitDump-v14.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v15/bagitDump-v15.zip">Current version download: bagitDump-v15.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_2/releases">Version archive</a>
@@ -330,13 +337,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>5259</td>
+            <td>5355</td>
+            <td>1</td>
             <td>0</td>
-            <td>0</td>
-            <td>50</td>
+            <td>76</td>
             <td>28</td>
             <td>0</td>
-            <td>178</td>
+            <td>220</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>

@@ -3914,13 +3914,13 @@
             </tr>
             <tr>
                <th>birken_gespraechspiel_1665</th>
-               <td>117</td>
+               <td>119</td>
                <td>0</td>
                <td>0</td>
+               <td>2</td>
                <td>0</td>
                <td>0</td>
-               <td>0</td>
-               <td>3</td>
+               <td>21</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -3959,45 +3959,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0017.xml">birken_gespraechspiel_1665_0017.xml</a>
                            </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0016.xml">birken_gespraechspiel_1665_0016.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0012.xml">birken_gespraechspiel_1665_0012.xml</a>
-                           </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -4014,15 +3976,53 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0029.xml">birken_gespraechspiel_1665_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0016.xml">birken_gespraechspiel_1665_0016.xml</a>
                            </td>
-                           <td>8</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
+                           <td>1</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0012.xml">birken_gespraechspiel_1665_0012.xml</a>
+                           </td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0029.xml">birken_gespraechspiel_1665_0029.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -4041,7 +4041,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -4054,13 +4054,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0031.xml">birken_gespraechspiel_1665_0031.xml</a>
                            </td>
-                           <td>9</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -4079,120 +4079,6 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0019.xml">birken_gespraechspiel_1665_0019.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0023.xml">birken_gespraechspiel_1665_0023.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0038.xml">birken_gespraechspiel_1665_0038.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0022.xml">birken_gespraechspiel_1665_0022.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0040.xml">birken_gespraechspiel_1665_0040.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0013.xml">birken_gespraechspiel_1665_0013.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
@@ -4204,140 +4090,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0036.xml">birken_gespraechspiel_1665_0036.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0015.xml">birken_gespraechspiel_1665_0015.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0018.xml">birken_gespraechspiel_1665_0018.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0014.xml">birken_gespraechspiel_1665_0014.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0142.xml">birken_gespraechspiel_1665_0142.xml</a>
-                           </td>
-                           <td>16</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0020.xml">birken_gespraechspiel_1665_0020.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0035.xml">birken_gespraechspiel_1665_0035.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0033.xml">birken_gespraechspiel_1665_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0019.xml">birken_gespraechspiel_1665_0019.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4356,6 +4109,253 @@
                         </tr>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0023.xml">birken_gespraechspiel_1665_0023.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0038.xml">birken_gespraechspiel_1665_0038.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0022.xml">birken_gespraechspiel_1665_0022.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0040.xml">birken_gespraechspiel_1665_0040.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0013.xml">birken_gespraechspiel_1665_0013.xml</a>
+                           </td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0036.xml">birken_gespraechspiel_1665_0036.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0015.xml">birken_gespraechspiel_1665_0015.xml</a>
+                           </td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0018.xml">birken_gespraechspiel_1665_0018.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0014.xml">birken_gespraechspiel_1665_0014.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0142.xml">birken_gespraechspiel_1665_0142.xml</a>
+                           </td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0020.xml">birken_gespraechspiel_1665_0020.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0035.xml">birken_gespraechspiel_1665_0035.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0033.xml">birken_gespraechspiel_1665_0033.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0 0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_gespraechspiel_1665/GT-PAGE/birken_gespraechspiel_1665_0026.xml">birken_gespraechspiel_1665_0026.xml</a>
                            </td>
                            <td>4</td>
@@ -4364,7 +4364,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7539,13 +7539,13 @@
             </tr>
             <tr>
                <th>birken_sonntagswandel_1681</th>
-               <td>96</td>
+               <td>116</td>
                <td>0</td>
                <td>0</td>
-               <td>2</td>
+               <td>3</td>
                <td>0</td>
                <td>0</td>
-               <td>5</td>
+               <td>23</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -7584,13 +7584,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0043.xml">birken_sonntagswandel_1681_0043.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7603,13 +7603,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0042.xml">birken_sonntagswandel_1681_0042.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7622,13 +7622,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0021.xml">birken_sonntagswandel_1681_0021.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7641,13 +7641,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0015.xml">birken_sonntagswandel_1681_0015.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7660,13 +7660,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0641.xml">birken_sonntagswandel_1681_0641.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7679,13 +7679,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0007.xml">birken_sonntagswandel_1681_0007.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7704,7 +7704,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7717,13 +7717,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0013.xml">birken_sonntagswandel_1681_0013.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7736,13 +7736,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0010.xml">birken_sonntagswandel_1681_0010.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7755,13 +7755,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0638.xml">birken_sonntagswandel_1681_0638.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7774,13 +7774,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0023.xml">birken_sonntagswandel_1681_0023.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7793,7 +7793,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0009.xml">birken_sonntagswandel_1681_0009.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7812,13 +7812,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0016.xml">birken_sonntagswandel_1681_0016.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7850,13 +7850,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0014.xml">birken_sonntagswandel_1681_0014.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7869,13 +7869,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0012.xml">birken_sonntagswandel_1681_0012.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7907,13 +7907,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0639.xml">birken_sonntagswandel_1681_0639.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7926,13 +7926,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0044.xml">birken_sonntagswandel_1681_0044.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7945,13 +7945,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0637.xml">birken_sonntagswandel_1681_0637.xml</a>
                            </td>
-                           <td>6</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7964,13 +7964,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0011.xml">birken_sonntagswandel_1681_0011.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -7989,7 +7989,7 @@
                            <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8002,13 +8002,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0017.xml">birken_sonntagswandel_1681_0017.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8040,13 +8040,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_sonntagswandel_1681/GT-PAGE/birken_sonntagswandel_1681_0640.xml">birken_sonntagswandel_1681_0640.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8830,7 +8830,7 @@
             </tr>
             <tr>
                <th>bismarck_erinnerungen02_1898</th>
-               <td>56</td>
+               <td>75</td>
                <td>0</td>
                <td>0</td>
                <td>2</td>
@@ -8875,7 +8875,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0063.xml">bismarck_erinnerungen02_1898_0063.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8894,7 +8894,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0226.xml">bismarck_erinnerungen02_1898_0226.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8913,7 +8913,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0331.xml">bismarck_erinnerungen02_1898_0331.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8970,7 +8970,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0115.xml">bismarck_erinnerungen02_1898_0115.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -8989,7 +8989,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0014.xml">bismarck_erinnerungen02_1898_0014.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9008,7 +9008,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0017.xml">bismarck_erinnerungen02_1898_0017.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9027,7 +9027,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0061.xml">bismarck_erinnerungen02_1898_0061.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9103,7 +9103,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0016.xml">bismarck_erinnerungen02_1898_0016.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9141,7 +9141,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0079.xml">bismarck_erinnerungen02_1898_0079.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9160,7 +9160,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0114.xml">bismarck_erinnerungen02_1898_0114.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9179,7 +9179,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0092.xml">bismarck_erinnerungen02_1898_0092.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9198,7 +9198,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0228.xml">bismarck_erinnerungen02_1898_0228.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9217,7 +9217,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0144.xml">bismarck_erinnerungen02_1898_0144.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -9236,7 +9236,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen02_1898/GT-PAGE/bismarck_erinnerungen02_1898_0116.xml">bismarck_erinnerungen02_1898_0116.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -12332,13 +12332,13 @@
             </tr>
             <tr>
                <th>blum_spatziergaenge01_1774</th>
-               <td>68</td>
+               <td>71</td>
                <td>0</td>
                <td>0</td>
-               <td>1</td>
+               <td>24</td>
                <td>0</td>
                <td>0</td>
-               <td>9</td>
+               <td>7</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -12380,7 +12380,7 @@
                            <td>4</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>1</td>
@@ -12399,7 +12399,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12418,7 +12418,7 @@
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12434,10 +12434,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0039.xml">blum_spatziergaenge01_1774_0039.xml</a>
                            </td>
-                           <td>6</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12453,10 +12453,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0018.xml">blum_spatziergaenge01_1774_0018.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12472,10 +12472,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0019.xml">blum_spatziergaenge01_1774_0019.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12491,10 +12491,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0023.xml">blum_spatziergaenge01_1774_0023.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12513,7 +12513,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12532,7 +12532,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12548,13 +12548,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0246.xml">blum_spatziergaenge01_1774_0246.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>1</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -12570,7 +12570,7 @@
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>1</td>
@@ -12586,10 +12586,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0027.xml">blum_spatziergaenge01_1774_0027.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12605,10 +12605,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0009.xml">blum_spatziergaenge01_1774_0009.xml</a>
                            </td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>1</td>
@@ -12624,7 +12624,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0244.xml">blum_spatziergaenge01_1774_0244.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -12643,10 +12643,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0026.xml">blum_spatziergaenge01_1774_0026.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12662,7 +12662,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0243.xml">blum_spatziergaenge01_1774_0243.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -12684,7 +12684,7 @@
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12703,10 +12703,10 @@
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -12722,7 +12722,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12738,7 +12738,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0245.xml">blum_spatziergaenge01_1774_0245.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -12757,10 +12757,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0025.xml">blum_spatziergaenge01_1774_0025.xml</a>
                            </td>
-                           <td>2</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12779,7 +12779,7 @@
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12798,7 +12798,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12814,10 +12814,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blum_spatziergaenge01_1774/GT-PAGE/blum_spatziergaenge01_1774_0071.xml">blum_spatziergaenge01_1774_0071.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>1</td>
@@ -12836,7 +12836,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -12855,7 +12855,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -18662,8 +18662,8 @@
             </tr>
             <tr>
                <th>birken_friedensvergleich_1652</th>
-               <td>59</td>
-               <td>0</td>
+               <td>58</td>
+               <td>1</td>
                <td>0</td>
                <td>1</td>
                <td>0</td>
@@ -18805,7 +18805,7 @@
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -18840,7 +18840,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_friedensvergleich_1652/GT-PAGE/birken_friedensvergleich_1652_0017.xml">birken_friedensvergleich_1652_0017.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -18955,9 +18955,9 @@
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/birken_friedensvergleich_1652/GT-PAGE/birken_friedensvergleich_1652_0007.xml">birken_friedensvergleich_1652_0007.xml</a>
                            </td>
                            <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -21822,13 +21822,13 @@
             </tr>
             <tr>
                <th>bierbaum_stilpe_1897</th>
-               <td>104</td>
+               <td>132</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>12</td>
+               <td>20</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -21867,13 +21867,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0402.xml">bierbaum_stilpe_1897_0402.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -21987,7 +21987,7 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22000,13 +22000,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0208.xml">bierbaum_stilpe_1897_0208.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>12</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22019,13 +22019,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0150.xml">bierbaum_stilpe_1897_0150.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>10</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22038,13 +22038,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0387.xml">bierbaum_stilpe_1897_0387.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22152,13 +22152,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0205.xml">bierbaum_stilpe_1897_0205.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22190,13 +22190,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0198.xml">bierbaum_stilpe_1897_0198.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22209,13 +22209,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0210.xml">bierbaum_stilpe_1897_0210.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27440,7 +27440,7 @@
             </tr>
             <tr>
                <th>bismarck_erinnerungen01_1898</th>
-               <td>60</td>
+               <td>85</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -27485,7 +27485,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0212.xml">bismarck_erinnerungen01_1898_0212.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27504,7 +27504,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0211.xml">bismarck_erinnerungen01_1898_0211.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27542,7 +27542,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0029.xml">bismarck_erinnerungen01_1898_0029.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27580,7 +27580,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0123.xml">bismarck_erinnerungen01_1898_0123.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27599,7 +27599,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0031.xml">bismarck_erinnerungen01_1898_0031.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27618,7 +27618,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0209.xml">bismarck_erinnerungen01_1898_0209.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27637,7 +27637,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0035.xml">bismarck_erinnerungen01_1898_0035.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27656,7 +27656,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0037.xml">bismarck_erinnerungen01_1898_0037.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27694,7 +27694,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0313.xml">bismarck_erinnerungen01_1898_0313.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27713,7 +27713,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0043.xml">bismarck_erinnerungen01_1898_0043.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27732,7 +27732,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0246.xml">bismarck_erinnerungen01_1898_0246.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27751,7 +27751,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0078.xml">bismarck_erinnerungen01_1898_0078.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27770,7 +27770,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0039.xml">bismarck_erinnerungen01_1898_0039.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27789,7 +27789,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0041.xml">bismarck_erinnerungen01_1898_0041.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27808,7 +27808,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0025.xml">bismarck_erinnerungen01_1898_0025.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27827,7 +27827,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0049.xml">bismarck_erinnerungen01_1898_0049.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -27846,7 +27846,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bismarck_erinnerungen01_1898/GT-PAGE/bismarck_erinnerungen01_1898_0033.xml">bismarck_erinnerungen01_1898_0033.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

@@ -3536,386 +3536,6 @@
       </tr>
       <tr>
          <th>birken_gespraechspiel_1665_0017.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0016.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0012.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0029.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0037.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0031.xml</th>
-         <td>9</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0039.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0019.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0023.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0038.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0022.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0040.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0013.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0036.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0015.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0018.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0014.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0142.xml</th>
-         <td>16</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0020.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0035.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>birken_gespraechspiel_1665_0033.xml</th>
          <td>6</td>
          <td>0</td>
          <td>0</td>
@@ -3934,6 +3554,386 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>birken_gespraechspiel_1665_0016.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0012.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0029.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0037.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0031.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0039.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0019.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0023.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0038.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0022.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0040.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0013.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0036.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0015.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0018.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0014.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0142.xml</th>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0020.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0035.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>birken_gespraechspiel_1665_0033.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0 0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>birken_gespraechspiel_1665_0026.xml</th>
          <td>4</td>
          <td>0</td>
@@ -3941,7 +3941,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6785,13 +6785,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0043.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6804,13 +6804,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0042.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6823,13 +6823,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0021.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6842,13 +6842,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0015.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6861,13 +6861,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0641.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6880,13 +6880,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0007.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6905,7 +6905,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6918,13 +6918,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0013.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6937,13 +6937,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0010.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6956,13 +6956,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0638.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6975,13 +6975,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0023.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6994,7 +6994,7 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0009.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7013,13 +7013,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0016.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7051,13 +7051,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0014.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7070,13 +7070,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0012.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7108,13 +7108,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0639.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7127,13 +7127,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0044.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7146,13 +7146,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0637.xml</th>
-         <td>6</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7165,13 +7165,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0011.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7190,7 +7190,7 @@
          <td>1</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7203,13 +7203,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0017.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7241,13 +7241,13 @@
       </tr>
       <tr>
          <th>birken_sonntagswandel_1681_0640.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7982,7 +7982,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0063.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8001,7 +8001,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0226.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8020,7 +8020,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0331.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8077,7 +8077,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0115.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8096,7 +8096,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0014.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8115,7 +8115,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0017.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8134,7 +8134,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0061.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8210,7 +8210,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0016.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8248,7 +8248,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0079.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8267,7 +8267,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0114.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8286,7 +8286,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0092.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8305,7 +8305,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0228.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8324,7 +8324,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0144.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8343,7 +8343,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen02_1898_0116.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11158,7 +11158,7 @@
          <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>1</td>
@@ -11177,7 +11177,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11196,7 +11196,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11212,10 +11212,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0039.xml</th>
-         <td>6</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11231,10 +11231,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0018.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11250,10 +11250,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0019.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11269,10 +11269,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0023.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11291,7 +11291,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11310,7 +11310,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11326,13 +11326,13 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0246.xml</th>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
-         <td>1</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11348,7 +11348,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>1</td>
@@ -11364,10 +11364,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0027.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11383,10 +11383,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0009.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0 0</td>
          <td>1</td>
@@ -11402,7 +11402,7 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0244.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11421,10 +11421,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0026.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11440,7 +11440,7 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0243.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11462,7 +11462,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11481,10 +11481,10 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11500,7 +11500,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11516,7 +11516,7 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0245.xml</th>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11535,10 +11535,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0025.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11557,7 +11557,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11576,7 +11576,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11592,10 +11592,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge01_1774_0071.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>1</td>
@@ -11614,7 +11614,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -11633,7 +11633,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -16972,7 +16972,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -17007,7 +17007,7 @@
       </tr>
       <tr>
          <th>birken_friedensvergleich_1652_0017.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17122,9 +17122,9 @@
       <tr>
          <th>birken_friedensvergleich_1652_0007.xml</th>
          <td>2</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19705,13 +19705,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0402.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19825,7 +19825,7 @@
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19838,13 +19838,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0208.xml</th>
-         <td>3</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19857,13 +19857,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0150.xml</th>
-         <td>3</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19876,13 +19876,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0387.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19990,13 +19990,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0205.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20028,13 +20028,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0198.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20047,13 +20047,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0210.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24759,7 +24759,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0212.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24778,7 +24778,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0211.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24816,7 +24816,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0029.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24854,7 +24854,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0123.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24873,7 +24873,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0031.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24892,7 +24892,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0209.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24911,7 +24911,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0035.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24930,7 +24930,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0037.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24968,7 +24968,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0313.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24987,7 +24987,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0043.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25006,7 +25006,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0246.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25025,7 +25025,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0078.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25044,7 +25044,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0039.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25063,7 +25063,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0041.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25082,7 +25082,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0025.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25101,7 +25101,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0049.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -25120,7 +25120,7 @@
       </tr>
       <tr>
          <th>bismarck_erinnerungen01_1898_0033.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
