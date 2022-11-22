@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-blum_spatziergaenge02_1775_0261"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:35:04.454</Created><LastChange>2012-12-27T11:01:10</LastChange></Metadata><Page imageFilename="../jpg/blum_spatziergaenge02_1775_0261.jpg" imageWidth="989" imageHeight="1602" type="content"><ReadingOrder><OrderedGroup id="d44" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/></OrderedGroup></ReadingOrder><TextRegion type="other" custom="#back_paragraph" id="region_1"><Coords points="10,60 984,60 984,1486 10,1486"/></TextRegion><TextRegion type="heading" custom="#heading_level1" id="region_2"><Coords points="392,282 563,282 563,366 392,366"/></TextRegion><TextRegion type="paragraph" custom="#list_item" id="region_3"><Coords points="192,370 821,370 821,869 192,869"/></TextRegion><SeparatorRegion id="region_4"><Coords points="355,877 589,877 589,918 355,918"/></SeparatorRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-blum_spatziergaenge02_1775_0261">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:35:04</Created>
+	<LastChange>2022-11-22T17:04:26</LastChange></Metadata>
+	<Page imageFilename="../jpg/blum_spatziergaenge02_1775_0261.jpg" imageWidth="989" imageHeight="1602" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#heading_level1" type="heading">
+	<Coords points="438,316 438,317 440,317 440,318 442,318 442,326 511,326 511,328 512,328 512,329 513,329 513,337 522,337 522,339 523,339 523,340 524,340 524,342 525,342 525,347 524,347 524,349 523,349 523,350 522,350 522,351 515,351 515,350 443,350 443,349 418,349 418,348 417,348 417,318 418,318 418,317 421,317 421,316"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#list_item" type="paragraph">
+	<Coords points="265,386 265,387 266,387 266,388 365,388 365,387 577,387 577,395 614,395 614,396 615,396 615,398 616,398 616,404 624,404 624,407 625,407 625,415 623,415 623,417 596,417 596,517 607,517 607,518 685,518 685,519 686,519 686,520 687,520 687,533 694,533 694,534 695,534 695,542 694,542 694,543 688,543 688,544 656,544 656,545 604,545 604,647 641,647 641,648 643,648 643,657 658,657 658,658 659,658 659,660 660,660 660,666 666,666 666,667 667,667 667,668 668,668 668,674 667,674 667,675 666,675 666,676 606,676 606,796 609,796 609,797 610,797 610,798 611,798 611,821 733,821 733,822 736,822 736,830 755,830 755,831 756,831 756,832 757,832 757,838 764,838 764,839 765,839 765,845 764,845 764,846 761,846 761,847 757,847 757,848 756,848 756,849 755,849 755,850 748,850 748,849 692,849 692,848 542,848 542,847 427,847 427,848 426,848 426,849 416,849 416,850 409,850 409,849 309,849 309,852 308,852 308,854 302,854 302,853 301,853 301,848 300,848 300,847 295,847 295,846 252,846 252,845 248,845 248,841 247,841 247,819 250,818 250,817 249,817 249,812 250,812 250,811 249,812 249,697 250,697 250,522 251,522 251,480 252,480 252,404 253,404 253,392 254,392 254,389 255,389 255,388 256,388 256,387 261,387 261,386"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_4">
+	<Coords points="425,883 425,884 517,884 517,885 539,885 539,886 540,886 540,892 541,892 541,900 540,900 540,901 529,901 529,900 393,900 393,893 394,893 394,884 418,884 418,883"/></SeparatorRegion></Page></PcGts>

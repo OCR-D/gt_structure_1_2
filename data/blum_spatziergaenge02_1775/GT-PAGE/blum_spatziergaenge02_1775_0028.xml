@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-blum_spatziergaenge02_1775_0028"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:35:04.454</Created><LastChange>2012-12-27T10:58:24</LastChange></Metadata><Page imageFilename="../jpg/blum_spatziergaenge02_1775_0028.jpg" imageWidth="989" imageHeight="1621" type="content"><ReadingOrder><OrderedGroup id="d50" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="217,140 311,140 311,211 217,211"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="200,220 896,220 896,1384 200,1384"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-blum_spatziergaenge02_1775_0028">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:35:04</Created>
+	<LastChange>2022-11-22T16:58:48</LastChange></Metadata>
+	<Page imageFilename="../jpg/blum_spatziergaenge02_1775_0028.jpg" imageWidth="989" imageHeight="1621" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="257,157 257,161 283,161 283,162 285,162 285,163 286,163 286,165 287,165 287,166 288,166 288,167 289,167 289,168 290,168 290,178 291,178 291,185 290,185 290,189 289,189 289,191 261,191 261,192 257,192 257,191 242,191 242,189 241,189 241,168 242,168 242,164 244,164 244,163 245,163 245,157"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="857,233 857,235 860,235 860,236 861,236 861,243 860,243 860,261 859,261 859,267 858,267 858,303 857,303 857,482 856,482 856,594 857,594 857,651 858,651 858,693 860,693 860,697 859,697 859,698 858,698 858,768 857,768 857,936 856,936 856,1006 855,1006 855,1063 854,1063 854,1166 855,1166 855,1167 856,1167 856,1327 857,1327 857,1348 850,1348 850,1349 801,1349 801,1350 728,1350 728,1351 681,1351 681,1352 664,1352 664,1353 658,1353 658,1352 248,1352 248,1358 243,1358 243,1357 242,1357 242,1334 241,1334 241,1330 242,1330 242,1217 243,1217 243,1056 242,1056 242,1006 241,1006 241,946 242,946 242,703 244,703 244,605 243,605 243,547 242,547 242,479 241,479 241,474 220,474 220,473 219,473 219,469 220,469 220,468 242,468 242,305 243,305 243,304 244,304 244,303 245,303 245,252 246,252 246,249 247,249 247,248 249,248 249,247 254,247 254,238 257,238 257,237 286,237 286,245 394,245 394,236 402,236 402,237 419,237 419,238 420,238 420,246 537,246 537,242 538,242 538,240 539,240 539,239 541,239 541,238 543,238 543,237 624,237 624,236 629,236 629,237 631,237 631,238 837,238 837,235 849,235 849,233"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r0" type="decoration">
+	<Coords points="494,150 494,151 507,151 507,152 509,152 509,153 608,153 608,152 609,152 609,151 615,151 615,152 625,152 625,153 626,153 626,163 625,163 625,172 624,172 624,173 622,173 622,174 615,174 615,186 614,186 614,187 612,187 612,188 611,188 611,189 609,189 609,190 605,190 605,191 588,191 588,195 543,195 543,196 536,196 536,193 511,193 511,185 494,185 494,184 492,184 492,183 490,183 490,182 488,182 488,181 487,181 487,170 478,170 478,166 477,166 477,164 476,164 476,156 477,156 477,153 478,153 478,151 485,151 485,150"/></GraphicRegion></Page></PcGts>
