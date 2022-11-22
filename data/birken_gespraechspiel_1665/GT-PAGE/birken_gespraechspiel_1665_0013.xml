@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_gespraechspiel_1665_0013"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:34:46.899</Created><LastChange>2013-09-04T13:04:37</LastChange></Metadata><Page imageFilename="../jpg/birken_gespraechspiel_1665_0013.jpg" imageWidth="1024" imageHeight="1267" type="content"><ReadingOrder><OrderedGroup id="d10" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/><RegionRefIndexed index="5" regionRef="region_5"/><RegionRefIndexed index="6" regionRef="region_6"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="514,385 564,385 564,418 514,418"/></TextRegion><SeparatorRegion id="region_2"><Coords points="325,422 741,422 741,485 325,485"/></SeparatorRegion><TextRegion type="heading" custom="#heading_level1" id="region_3"><Coords points="383,490 700,490 700,577 383,577"/></TextRegion><TextRegion type="paragraph" id="region_4"><Coords points="328,577 778,577 778,1108 328,1108"/></TextRegion><TextRegion type="signature-mark" id="region_5"><Coords points="516,1108 587,1108 587,1150 516,1150"/></TextRegion><TextRegion type="catch-word" id="region_6"><Coords points="667,1108 748,1108 748,1141 667,1141"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_gespraechspiel_1665_0013">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:46</Created>
+	<LastChange>2022-11-22T10:56:15</LastChange></Metadata>
+	<Page imageFilename="../jpg/birken_gespraechspiel_1665_0013.jpg" imageWidth="1024" imageHeight="1267" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="541,398 541,399 542,399 542,404 549,404 549,405 550,405 550,411 549,411 549,412 534,412 534,404 533,404 533,398"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="region_2" type="decoration">
+	<Coords points="571,422 571,424 681,424 681,423 709,423 709,422 715,422 715,423 723,423 723,425 724,425 724,433 725,433 725,434 726,434 726,459 727,459 727,466 726,466 726,467 725,467 725,476 723,476 723,477 722,477 722,478 716,478 716,479 663,479 663,480 581,480 581,481 499,481 499,482 471,482 471,483 356,483 356,482 349,482 349,481 348,481 348,473 347,473 347,471 346,471 346,439 347,439 347,422"/></GraphicRegion>
+	<TextRegion id="region_3" custom="#heading_level1" type="heading">
+	<Coords points="580,497 580,499 590,499 590,504 610,504 610,505 611,505 611,506 612,506 612,534 651,534 651,539 672,539 672,541 673,541 673,554 678,554 678,555 679,555 679,556 680,556 680,557 681,557 681,565 680,565 680,566 679,566 679,567 669,567 669,568 631,568 631,569 596,569 596,570 595,570 595,571 590,571 590,572 520,572 520,573 519,573 519,574 518,574 518,575 515,575 515,576 506,576 506,575 505,575 505,573 407,573 407,574 403,574 403,573 399,573 399,571 398,571 398,550 397,550 397,543 398,543 398,542 399,542 399,541 400,541 400,539 401,539 401,538 409,538 409,536 411,536 411,534 413,534 413,533 414,533 414,532 416,532 416,531 462,531 462,504 463,504 463,503 464,503 464,502 465,502 465,501 476,501 476,500 552,500 552,499 553,499 553,498 555,498 555,497"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="paragraph">
+	<Coords points="672,592 672,593 693,593 693,595 704,595 704,596 725,596 725,598 733,598 733,737 734,737 734,777 735,777 735,809 734,809 734,860 733,860 733,1060 734,1060 734,1090 733,1090 733,1099 724,1099 724,1101 706,1101 706,1100 687,1100 687,1102 686,1102 686,1104 685,1104 685,1106 685,1105 684,1105 684,1104 683,1104 683,1103 666,1103 666,1104 664,1104 664,1105 663,1105 663,1106 661,1106 661,1107 660,1107 660,1108 655,1108 655,1105 532,1105 532,1108 352,1108 352,1044 351,1044 351,915 350,915 350,868 349,868 349,796 348,796 348,702 349,702 349,694 368,694 368,691 388,691 388,690 424,690 424,682 425,682 425,598 426,598 426,596 429,596 429,595 488,595 488,596 618,596 618,595 619,595 619,594 620,594 620,593 648,593 648,592"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="signature-mark">
+	<Coords points="571,1110 571,1116 572,1116 572,1131 570,1131 570,1133 569,1133 569,1135 568,1135 568,1136 567,1136 567,1137 563,1137 563,1136 561,1136 561,1135 533,1135 533,1133 531,1133 531,1132 529,1132 529,1131 528,1131 528,1119 527,1119 527,1111 528,1111 531,1110"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="catch-word">
+	<Coords points="724,1108 724,1111 726,1111 726,1112 733,1112 733,1113 734,1113 734,1121 733,1121 733,1122 732,1122 732,1123 731,1123 731,1124 729,1124 729,1125 726,1125 726,1127 713,1127 713,1128 708,1128 708,1129 687,1129 687,1132 686,1132 686,1134 685,1134 685,1135 683,1135 683,1136 678,1136 678,1135 676,1135 676,1125 674,1125 674,1124 673,1124 673,1119 672,1119 672,1112 673,1112 673,1110 674,1110 674,1109 675,1109 675,1108"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="drop-capital">
+	<Coords points="412,595 412,596 413,596 413,597 415,597 415,598 416,598 416,602 417,602 417,615 418,615 418,617 419,617 419,619 420,619 420,621 421,621 421,626 422,626 422,640 421,640 421,646 420,646 420,649 419,649 419,667 418,667 418,670 417,670 417,671 415,671 415,672 367,672 367,673 359,673 359,672 358,672 358,664 354,664 354,663 352,663 352,662 351,662 351,660 350,660 350,657 349,657 349,629 348,629 348,628 347,628 347,616 348,616 348,612 349,612 349,611 350,611 350,600 373,600 373,599 374,599 374,598 376,598 376,596 377,596 377,595"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

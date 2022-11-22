@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_friedensvergleich_1652_0024"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:34:45.242</Created><LastChange>2011-05-17T12:42:42</LastChange></Metadata><Page imageFilename="../jpg/birken_friedensvergleich_1652_0024.jpg" imageWidth="1024" imageHeight="1442" type="content"><ReadingOrder><OrderedGroup id="d2" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="paragraph" id="region_1"><Coords points="201,81 930,81 930,1056 201,1056"/></TextRegion><TextRegion type="catch-word" id="region_2"><Coords points="800,1056 919,1056 919,1091 800,1091"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_friedensvergleich_1652_0024">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:45</Created>
+	<LastChange>2022-11-22T10:37:15</LastChange></Metadata>
+	<Page imageFilename="../jpg/birken_friedensvergleich_1652_0024.jpg" imageWidth="1024" imageHeight="1442" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="860,94 860,105 873,105 873,106 875,106 875,108 883,108 883,109 884,109 884,136 885,136 885,217 886,217 886,305 885,305 885,306 884,306 884,307 777,307 777,521 802,521 802,526 707,526 707,744 721,744 721,745 722,745 722,753 727,753 727,754 728,754 728,769 882,769 882,771 889,771 889,777 890,777 890,786 891,786 891,861 892,861 892,908 893,908 893,965 885,965 885,966 884,966 884,967 883,967 883,968 865,968 865,969 798,969 798,971 797,971 797,973 796,973 796,974 761,974 761,1051 751,1051 751,1052 732,1052 732,1053 674,1053 674,1058 672,1058 672,1059 662,1059 662,1058 539,1058 539,1057 465,1057 465,1056 391,1056 391,1032 389,1032 389,1001 324,1001 324,1000 321,1000 321,995 304,995 304,994 303,994 303,867 302,867 302,841 301,841 301,837 302,837 302,803 303,803 303,802 317,802 317,795 344,795 344,569 338,569 338,568 337,568 337,563 341,563 341,562 342,562 342,330 302,330 302,329 300,329 300,327 299,327 299,325 298,325 298,197 295,197 295,171 294,171 294,169 293,169 293,117 292,117 292,109 293,109 293,108 294,108 294,107 295,107 295,106 296,106 296,105 321,105 321,104 339,104 339,99 340,99 340,98 341,98 341,97 769,97 769,96 855,96 855,94"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="870,1054 870,1061 882,1061 882,1062 883,1062 883,1066 893,1066 893,1073 892,1073 892,1074 884,1074 884,1075 861,1075 861,1076 846,1076 846,1077 842,1077 842,1076 839,1076 839,1071 819,1071 819,1068 814,1068 814,1062 816,1062 816,1056 823,1056 823,1055 840,1055 840,1054"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

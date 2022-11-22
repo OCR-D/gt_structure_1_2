@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_friedensvergleich_1652_0018"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:34:45.242</Created><LastChange>2011-03-16T17:52:23</LastChange></Metadata><Page imageFilename="../jpg/birken_friedensvergleich_1652_0018.jpg" imageWidth="1024" imageHeight="1442" type="content"><ReadingOrder><OrderedGroup id="d32" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="paragraph" id="region_1"><Coords points="183,88 932,88 932,1046 183,1046"/></TextRegion><TextRegion type="catch-word" id="region_2"><Coords points="820,1046 900,1046 900,1088 820,1088"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_friedensvergleich_1652_0018">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:45</Created>
+	<LastChange>2022-11-22T10:36:34</LastChange></Metadata>
+	<Page imageFilename="../jpg/birken_friedensvergleich_1652_0018.jpg" imageWidth="1024" imageHeight="1442" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="402,103 402,104 433,104 433,105 511,105 511,106 721,106 721,116 722,116 722,122 727,122 727,123 728,123 728,124 932,124 932,136 890,136 890,437 889,437 889,541 888,541 888,565 887,565 887,667 885,667 885,717 884,717 884,718 883,718 883,819 882,819 882,820 874,820 874,821 861,821 861,822 821,822 821,823 771,823 771,903 770,903 770,904 769,904 769,905 767,905 767,906 750,906 750,907 745,907 745,1032 743,1032 743,1033 742,1033 742,1034 558,1034 558,1035 373,1035 373,964 323,964 323,963 320,963 320,962 318,962 318,841 301,841 301,840 293,840 293,839 292,839 292,838 291,838 291,814 290,814 290,809 292,809 292,728 293,728 293,674 294,674 294,581 295,581 295,512 296,512 296,421 297,421 297,420 298,420 298,395 299,395 299,394 300,394 300,393 301,393 301,391 302,391 302,390 303,390 303,389 343,389 343,365 353,365 353,364 366,364 366,134 382,134 382,131 383,131 383,129 387,129 387,104 398,104 398,103"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="872,1055 872,1056 875,1056 875,1057 876,1057 876,1070 875,1070 875,1071 874,1071 874,1072 871,1072 871,1073 867,1073 867,1072 843,1072 843,1071 842,1071 842,1062 843,1062 843,1060 844,1060 844,1057 846,1057 846,1056 867,1056 867,1055"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

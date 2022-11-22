@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_friedensvergleich_1652_0033"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:34:45.242</Created><LastChange>2011-03-16T17:52:32</LastChange></Metadata><Page imageFilename="../jpg/birken_friedensvergleich_1652_0033.jpg" imageWidth="1024" imageHeight="1442" type="content"><ReadingOrder><OrderedGroup id="d18" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/></OrderedGroup></ReadingOrder><TextRegion type="paragraph" id="region_1"><Coords points="65,63 805,63 805,1013 65,1013"/></TextRegion><TextRegion type="catch-word" id="region_2"><Coords points="563,1013 726,1013 726,1067 563,1067"/></TextRegion><TextRegion type="signature-mark" id="region_3"><Coords points="361,1020 491,1020 491,1077 361,1077"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-birken_friedensvergleich_1652_0033">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:45</Created>
+	<LastChange>2022-11-22T10:41:34</LastChange></Metadata>
+	<Page imageFilename="../jpg/birken_friedensvergleich_1652_0033.jpg" imageWidth="1024" imageHeight="1442" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="546,94 546,122 552,122 552,123 553,123 553,127 613,127 613,128 614,128 614,131 619,131 619,139 623,139 623,140 624,140 624,141 625,141 625,250 695,250 695,321 699,321 699,325 561,325 561,526 577,526 577,532 582,532 582,533 583,533 583,729 591,729 591,730 593,730 593,736 595,736 595,737 596,737 596,743 599,743 599,744 600,744 600,745 601,745 601,746 663,746 663,747 664,747 664,748 667,748 667,749 668,749 668,751 669,751 669,814 686,814 686,826 694,826 694,827 695,827 695,962 694,962 694,964 650,964 650,970 649,970 649,971 465,971 465,973 464,973 464,974 462,974 462,975 350,975 350,988 349,988 349,997 348,997 348,998 329,998 329,999 304,999 304,1000 271,1000 271,1001 233,1001 233,1002 217,1002 217,1003 163,1003 163,1004 155,1004 155,1005 119,1005 119,1010 110,1010 110,1003 108,1003 108,1002 106,1002 106,1001 105,1001 105,985 101,985 101,980 102,980 102,737 101,737 101,512 65,512 65,340 101,340 101,126 99,126 99,124 98,124 98,118 99,118 99,117 100,117 100,116 101,116 101,109 102,109 102,108 103,108 103,106 104,106 104,105 105,105 105,104 107,104 107,103 129,103 129,101 135,101 135,100 289,100 289,98 344,98 344,96 399,96 399,95 487,95 487,94"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="648,1019 648,1020 672,1020 672,1026 681,1026 681,1027 682,1027 682,1028 685,1028 685,1030 686,1030 686,1035 697,1035 697,1043 696,1043 696,1045 685,1045 685,1046 683,1046 683,1048 681,1048 681,1049 630,1049 630,1050 629,1050 629,1051 594,1051 594,1052 583,1052 583,1051 580,1051 580,1047 581,1047 581,1022 584,1022 584,1021 594,1021 594,1020 603,1020 603,1019"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="461,1030 461,1031 467,1031 467,1032 469,1032 469,1033 470,1033 470,1035 471,1035 471,1043 474,1043 474,1044 475,1044 475,1051 474,1051 474,1052 473,1052 473,1053 472,1053 472,1055 444,1055 444,1060 443,1060 443,1061 392,1061 392,1062 386,1062 386,1061 385,1061 385,1046 378,1046 378,1039 384,1039 384,1034 385,1034 385,1032 387,1032 387,1031 403,1031 403,1030"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
