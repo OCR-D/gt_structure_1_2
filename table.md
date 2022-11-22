@@ -21822,13 +21822,13 @@
             </tr>
             <tr>
                <th>bierbaum_stilpe_1897</th>
-               <td>61</td>
+               <td>104</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>0</td>
+               <td>12</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -21886,13 +21886,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0143.xml">bierbaum_stilpe_1897_0143.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -21905,13 +21905,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0141.xml">bierbaum_stilpe_1897_0141.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -21924,13 +21924,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0132.xml">bierbaum_stilpe_1897_0132.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -21943,13 +21943,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0057.xml">bierbaum_stilpe_1897_0057.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -21962,13 +21962,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0066.xml">bierbaum_stilpe_1897_0066.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>9</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22057,13 +22057,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0061.xml">bierbaum_stilpe_1897_0061.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22076,13 +22076,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0147.xml">bierbaum_stilpe_1897_0147.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22095,13 +22095,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0119.xml">bierbaum_stilpe_1897_0119.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>10</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22114,13 +22114,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0142.xml">bierbaum_stilpe_1897_0142.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22133,13 +22133,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0146.xml">bierbaum_stilpe_1897_0146.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22171,13 +22171,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0022.xml">bierbaum_stilpe_1897_0022.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -22228,13 +22228,13 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/bierbaum_stilpe_1897/GT-PAGE/bierbaum_stilpe_1897_0140.xml">bierbaum_stilpe_1897_0140.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0 0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

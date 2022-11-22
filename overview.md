@@ -19724,13 +19724,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0143.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19743,13 +19743,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0141.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19762,13 +19762,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0132.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19781,13 +19781,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0057.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19800,13 +19800,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0066.xml</th>
-         <td>3</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19895,13 +19895,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0061.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19914,13 +19914,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0147.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19933,13 +19933,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0119.xml</th>
-         <td>3</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19952,13 +19952,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0142.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19971,13 +19971,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0146.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20009,13 +20009,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0022.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -20066,13 +20066,13 @@
       </tr>
       <tr>
          <th>bierbaum_stilpe_1897_0140.xml</th>
-         <td>3</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0 0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
