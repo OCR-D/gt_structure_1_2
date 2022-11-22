@@ -45,10 +45,10 @@
       </thead>
       <tbody>
          <tr>
-            <td>5364</td>
+            <td>5370</td>
             <td>1</td>
             <td>0</td>
-            <td>100</td>
+            <td>102</td>
             <td>28</td>
             <td>0</td>
             <td>219</td>
@@ -1118,10 +1118,10 @@
                </tr>
                <tr>
                   <td>blumenbach_anatomie_1805</td>
-                  <td>135</td>
+                  <td>141</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>2</td>
                   <td>2</td>
                   <td/>
                   <td/>
