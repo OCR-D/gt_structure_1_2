@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5216</td>
+            <td>5259</td>
             <td>0</td>
             <td>0</td>
             <td>50</td>
             <td>28</td>
             <td>0</td>
-            <td>166</td>
+            <td>178</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -928,13 +928,13 @@
                </tr>
                <tr>
                   <td>bierbaum_stilpe_1897</td>
-                  <td>61</td>
+                  <td>104</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>12</td>
                   <td/>
                   <td/>
                   <td/>
