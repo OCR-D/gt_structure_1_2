@@ -18834,7 +18834,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18853,7 +18853,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18872,7 +18872,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18891,7 +18891,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18910,7 +18910,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18929,7 +18929,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18948,7 +18948,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -18964,7 +18964,7 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0261.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18986,7 +18986,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19005,7 +19005,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19024,10 +19024,10 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19040,10 +19040,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0024.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19062,7 +19062,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19078,10 +19078,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0023.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19100,7 +19100,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19119,7 +19119,7 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19138,7 +19138,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19154,10 +19154,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0135.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19173,7 +19173,7 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0007.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -19192,10 +19192,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0019.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19214,7 +19214,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19233,7 +19233,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19252,7 +19252,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19271,7 +19271,7 @@
          <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19287,10 +19287,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0030.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
@@ -19306,10 +19306,10 @@
       </tr>
       <tr>
          <th>blum_spatziergaenge02_1775_0032.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0 0</td>
          <td>0</td>
