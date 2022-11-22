@@ -26510,10 +26510,10 @@
             </tr>
             <tr>
                <th>blumenbach_anatomie_1805</th>
-               <td>135</td>
+               <td>141</td>
                <td>0</td>
                <td>0</td>
-               <td>0</td>
+               <td>2</td>
                <td>2</td>
                <td>0</td>
                <td>0</td>
@@ -26555,7 +26555,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0015.xml">blumenbach_anatomie_1805_0015.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -26650,10 +26650,10 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0014.xml">blumenbach_anatomie_1805_0014.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -26672,7 +26672,7 @@
                            <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0 0</td>
                            <td>0</td>
@@ -26688,7 +26688,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0017.xml">blumenbach_anatomie_1805_0017.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -26726,7 +26726,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0018.xml">blumenbach_anatomie_1805_0018.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -26802,7 +26802,7 @@
                            <td>
                               <a href="https://github.com/tboenig/gt_structure_1_2/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0019.xml">blumenbach_anatomie_1805_0019.xml</a>
                            </td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
