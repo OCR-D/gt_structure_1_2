@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5259</td>
+            <td>5355</td>
+            <td>1</td>
             <td>0</td>
-            <td>0</td>
-            <td>50</td>
+            <td>76</td>
             <td>28</td>
             <td>0</td>
-            <td>178</td>
+            <td>220</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -225,13 +225,13 @@
                </tr>
                <tr>
                   <td>birken_gespraechspiel_1665</td>
-                  <td>117</td>
+                  <td>119</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>21</td>
                   <td/>
                   <td/>
                   <td/>
@@ -377,13 +377,13 @@
                </tr>
                <tr>
                   <td>birken_sonntagswandel_1681</td>
-                  <td>96</td>
+                  <td>116</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>3</td>
                   <td/>
                   <td/>
-                  <td>5</td>
+                  <td>23</td>
                   <td/>
                   <td/>
                   <td/>
@@ -415,7 +415,7 @@
                </tr>
                <tr>
                   <td>bismarck_erinnerungen02_1898</td>
-                  <td>56</td>
+                  <td>75</td>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -548,13 +548,13 @@
                </tr>
                <tr>
                   <td>blum_spatziergaenge01_1774</td>
-                  <td>68</td>
+                  <td>71</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>24</td>
                   <td/>
                   <td/>
-                  <td>9</td>
+                  <td>7</td>
                   <td/>
                   <td/>
                   <td/>
@@ -795,8 +795,8 @@
                </tr>
                <tr>
                   <td>birken_friedensvergleich_1652</td>
-                  <td>59</td>
-                  <td/>
+                  <td>58</td>
+                  <td>1</td>
                   <td/>
                   <td>1</td>
                   <td/>
@@ -928,13 +928,13 @@
                </tr>
                <tr>
                   <td>bierbaum_stilpe_1897</td>
-                  <td>104</td>
+                  <td>132</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>12</td>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1156,7 +1156,7 @@
                </tr>
                <tr>
                   <td>bismarck_erinnerungen01_1898</td>
-                  <td>60</td>
+                  <td>85</td>
                   <td/>
                   <td/>
                   <td/>
