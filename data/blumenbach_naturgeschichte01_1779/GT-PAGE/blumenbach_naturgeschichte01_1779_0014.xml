@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-blumenbach_naturgeschichte01_1779_0014"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:35:06.157</Created><LastChange>2012-09-11T09:28:36</LastChange></Metadata><Page imageFilename="../jpg/blumenbach_naturgeschichte01_1779_0014.jpg" imageWidth="1176" imageHeight="1824" type="content"><ReadingOrder><OrderedGroup id="d14" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/></OrderedGroup></ReadingOrder><TextRegion type="header" id="region_1"><Coords points="668,304 937,304 937,373 668,373"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="486,374 1135,374 1135,1372 486,1372"/></TextRegion><TextRegion type="catch-word" id="region_3"><Coords points="1018,1372 1131,1372 1131,1442 1018,1442"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-blumenbach_naturgeschichte01_1779_0014">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:35:06</Created>
+	<LastChange>2022-11-23T11:30:42</LastChange></Metadata>
+	<Page imageFilename="../jpg/blumenbach_naturgeschichte01_1779_0014.jpg" imageWidth="1176" imageHeight="1824" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="853,326 853,327 854,327 854,328 874,328 874,329 892,329 892,349 894,349 894,350 896,350 896,351 898,351 898,356 897,356 897,360 884,360 884,361 882,361 882,362 831,362 831,363 729,363 729,364 727,364 727,365 721,365 721,364 719,364 719,363 706,363 706,362 705,362 705,346 704,346 704,345 703,345 703,341 702,341 702,334 703,334 703,332 705,332 705,331 706,331 706,328 847,328 847,327 848,327 848,326"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="968,392 968,393 969,393 969,395 1076,395 1076,394 1077,394 1077,393 1084,393 1084,394 1085,394 1085,395 1086,395 1086,402 1087,402 1087,403 1088,403 1088,410 1089,410 1089,417 1090,417 1090,467 1091,467 1091,468 1092,468 1092,531 1094,531 1094,661 1095,661 1095,716 1096,716 1096,776 1097,776 1097,777 1098,777 1098,782 1097,782 1097,899 1098,899 1098,900 1099,900 1099,959 1100,959 1100,1027 1101,1027 1101,1032 1100,1032 1100,1144 1102,1144 1102,1209 1103,1209 1103,1274 1104,1274 1104,1348 1103,1348 1103,1349 1102,1349 1102,1350 1100,1350 1100,1351 1098,1351 1098,1352 1089,1352 1089,1355 1088,1355 1088,1356 1087,1356 1087,1357 1084,1357 1084,1358 1010,1358 1010,1359 1009,1359 1009,1361 1002,1361 1002,1355 991,1355 991,1354 855,1354 855,1355 837,1355 837,1356 711,1356 711,1358 710,1358 710,1359 709,1359 709,1361 708,1361 708,1362 707,1362 707,1363 706,1363 706,1364 700,1364 700,1358 528,1358 528,1357 526,1357 526,1356 525,1356 525,1222 524,1222 524,1219 523,1219 523,979 522,979 522,971 521,971 521,963 522,963 522,861 521,861 521,854 513,854 513,850 518,850 518,726 517,726 517,674 513,674 513,670 512,670 512,605 510,605 510,535 509,535 509,413 510,413 510,406 515,406 515,403 516,403 516,401 517,401 517,400 518,400 518,399 558,399 558,398 576,398 576,397 578,397 578,396 584,396 584,397 683,397 683,398 783,398 783,397 785,397 785,396 868,396 868,395 904,395 904,394 907,394 907,393 960,393 960,392"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1090,1383 1090,1384 1091,1384 1091,1393 1105,1393 1105,1407 1103,1407 1103,1408 1102,1408 1102,1410 1101,1410 1101,1411 1100,1411 1100,1412 1099,1412 1099,1413 1098,1413 1098,1414 1092,1414 1092,1416 1091,1416 1091,1417 1090,1417 1090,1418 1089,1418 1089,1419 1088,1419 1088,1420 1087,1420 1087,1421 1086,1421 1086,1422 1081,1422 1081,1421 1037,1421 1037,1419 1036,1419 1036,1395 1035,1395 1035,1390 1036,1390 1036,1388 1037,1388 1037,1387 1038,1387 1038,1386 1039,1386 1039,1385 1041,1385 1041,1384 1086,1384 1086,1383"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
