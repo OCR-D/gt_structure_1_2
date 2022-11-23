@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5370</td>
+            <td>5374</td>
             <td>1</td>
             <td>0</td>
-            <td>102</td>
+            <td>104</td>
             <td>28</td>
             <td>0</td>
-            <td>219</td>
+            <td>235</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -92,13 +92,13 @@
             <tbody>
                <tr>
                   <td>blumenbach_naturgeschichte01_1779</td>
-                  <td>116</td>
+                  <td>117</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -301,13 +301,13 @@
                </tr>
                <tr>
                   <td>bodmer_sammlung01_1741</td>
-                  <td>106</td>
+                  <td>127</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -339,13 +339,13 @@
                </tr>
                <tr>
                   <td>bluntschli_voelkerrecht_1868</td>
-                  <td>103</td>
+                  <td>105</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>16</td>
                   <td/>
                   <td/>
                   <td/>
@@ -871,7 +871,7 @@
                </tr>
                <tr>
                   <td>blumenbach_menschengeschlecht_1798</td>
-                  <td>107</td>
+                  <td>87</td>
                   <td/>
                   <td/>
                   <td/>
