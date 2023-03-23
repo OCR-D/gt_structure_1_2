@@ -144,6 +144,16 @@ An image database</p>
          <strong>Description: </strong>Drap capitals (large capitals at beginning of paragraph)</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+      <p>
+         <strong>Description: </strong>Antiqua font (more modern)</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+      <p>
+         <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
+   </details>
+   <details>
       <summary>granularity/logical/document-related/paragraph</summary>
       <p>
          <strong>Description: </strong>
@@ -177,7 +187,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v18/bagitDump-v18.zip">Current version download: bagitDump-v18.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_2/releases/download/v26/bagitDump-v26.zip">Current version download: bagitDump-v26.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_2/releases">Version archive</a>
@@ -337,13 +347,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>5374</td>
+            <td>5502</td>
             <td>1</td>
             <td>0</td>
             <td>104</td>
             <td>28</td>
             <td>0</td>
-            <td>235</td>
+            <td>241</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
