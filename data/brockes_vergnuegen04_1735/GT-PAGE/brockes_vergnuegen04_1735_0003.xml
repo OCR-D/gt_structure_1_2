@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-brockes_vergnuegen04_1735_0003">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
-	<Created>2018-04-03T15:36:25</Created>
-	<LastChange>2023-05-05T16:02:49</LastChange></Metadata>
+	<Created>2018-04-03T14:36:25</Created>
+	<LastChange>2023-05-08T08:40:53</LastChange></Metadata>
 	<Page imageFilename="../jpg/brockes_vergnuegen04_1735_0003.jpg" imageWidth="2000" imageHeight="3081" type="title">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
@@ -35,4 +35,6 @@
 	<TextRegion id="r7" type="paragraph">
 	<Coords points="531,2239 531,2240 532,2240 532,2241 536,2241 536,2242 539,2242 539,2243 737,2243 737,2242 738,2242 738,2241 744,2241 744,2240 755,2240 755,2241 837,2241 837,2242 846,2242 846,2243 848,2243 848,2244 849,2244 849,2252 908,2252 908,2255 911,2255 911,2256 929,2256 929,2257 930,2257 930,2258 932,2258 932,2259 933,2259 933,2261 934,2261 934,2275 942,2275 942,2276 944,2276 944,2277 945,2277 945,2285 944,2285 944,2287 943,2287 943,2288 942,2288 942,2290 925,2290 925,2291 909,2291 909,2296 908,2296 908,2298 907,2298 907,2299 893,2299 893,2300 893,2299 740,2299 740,2298 629,2298 629,2295 528,2295 528,2294 525,2294 525,2293 524,2293 524,2292 523,2292 523,2291 522,2291 522,2289 521,2289 521,2287 519,2287 519,2277 518,2277 518,2275 517,2275 517,2243 518,2243 518,2242 519,2242 519,2241 520,2241 520,2240 525,2240 525,2239"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r0" type="handwritten-annotation">
+	<Coords points="1388,165 1388,256 1509,256 1509,165"/></GraphicRegion></Page></PcGts>
