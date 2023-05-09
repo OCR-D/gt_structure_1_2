@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>5660</td>
+            <td>5876</td>
             <td>1</td>
             <td>0</td>
             <td>125</td>
             <td>28</td>
             <td>0</td>
-            <td>349</td>
+            <td>449</td>
             <td>74</td>
             <td>0</td>
             <td>0</td>
@@ -282,13 +282,13 @@
                </tr>
                <tr>
                   <td>boerne_paris06_1834</td>
-                  <td>41</td>
+                  <td>52</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -320,7 +320,7 @@
                </tr>
                <tr>
                   <td>boelsche_liebesleben02_1900</td>
-                  <td>42</td>
+                  <td>99</td>
                   <td/>
                   <td/>
                   <td/>
@@ -339,13 +339,13 @@
                </tr>
                <tr>
                   <td>boerne_paris05_1834</td>
-                  <td>43</td>
+                  <td>58</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -377,13 +377,13 @@
                </tr>
                <tr>
                   <td>boerne_paris03_1833</td>
-                  <td>45</td>
+                  <td>58</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -567,7 +567,7 @@
                </tr>
                <tr>
                   <td>boelsche_liebesleben01_1898</td>
-                  <td>71</td>
+                  <td>167</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1004,13 +1004,13 @@
                </tr>
                <tr>
                   <td>boerne_paris02_1832</td>
-                  <td>42</td>
+                  <td>55</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1137,13 +1137,13 @@
                </tr>
                <tr>
                   <td>boerne_paris04_1833</td>
-                  <td>46</td>
+                  <td>57</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
