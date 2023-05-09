@@ -4752,13 +4752,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0042.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4777,7 +4777,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4796,7 +4796,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4815,7 +4815,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4828,13 +4828,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0103.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4853,7 +4853,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4872,7 +4872,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4885,13 +4885,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0020.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4910,7 +4910,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4923,13 +4923,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0018.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4948,7 +4948,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4961,13 +4961,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0021.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4980,13 +4980,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0044.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5005,7 +5005,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5018,13 +5018,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0138.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5037,13 +5037,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0028.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5056,13 +5056,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0136.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5075,13 +5075,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0142.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5094,13 +5094,13 @@
       </tr>
       <tr>
          <th>boerne_paris06_1834_0106.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5119,7 +5119,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5512,7 +5512,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0358.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5531,7 +5531,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0019.xml</th>
-         <td>3</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5550,7 +5550,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0301.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5569,7 +5569,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0038.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5588,7 +5588,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0159.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5607,7 +5607,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0052.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5626,7 +5626,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0187.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5645,7 +5645,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0186.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5664,7 +5664,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0138.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5683,7 +5683,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0176.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5702,7 +5702,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0331.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5721,7 +5721,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0020.xml</th>
-         <td>2</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5759,7 +5759,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0029.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5778,7 +5778,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0246.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5797,7 +5797,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0272.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5816,7 +5816,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0144.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5835,7 +5835,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0276.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5854,7 +5854,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0209.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5873,7 +5873,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben02_1900_0151.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5892,13 +5892,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0067.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5911,13 +5911,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0178.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5930,13 +5930,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0096.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5949,13 +5949,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0139.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5968,13 +5968,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0061.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5987,13 +5987,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0202.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6012,7 +6012,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6031,7 +6031,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6044,13 +6044,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0232.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6069,7 +6069,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6088,7 +6088,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6101,13 +6101,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0062.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6126,7 +6126,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6145,7 +6145,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6158,13 +6158,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0179.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6183,7 +6183,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6196,13 +6196,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0207.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6215,13 +6215,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0185.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6234,13 +6234,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0188.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6253,13 +6253,13 @@
       </tr>
       <tr>
          <th>boerne_paris05_1834_0194.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6734,7 +6734,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6753,7 +6753,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6766,13 +6766,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0086.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6785,13 +6785,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0057.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6810,7 +6810,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6829,7 +6829,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6842,13 +6842,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0021.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6867,7 +6867,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6886,7 +6886,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6899,13 +6899,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0080.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6924,7 +6924,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6937,13 +6937,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0287.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6962,7 +6962,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6975,13 +6975,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0023.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7000,7 +7000,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7013,13 +7013,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0070.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7032,13 +7032,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0322.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7057,7 +7057,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7070,13 +7070,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0016.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7089,13 +7089,13 @@
       </tr>
       <tr>
          <th>boerne_paris03_1833_0171.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10737,7 +10737,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0042.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10756,7 +10756,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0315.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10775,7 +10775,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0065.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10794,7 +10794,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0028.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10813,7 +10813,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0192.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10832,7 +10832,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0203.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10851,7 +10851,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0178.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10870,7 +10870,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0020.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10889,7 +10889,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0050.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10908,7 +10908,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0417.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10946,7 +10946,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0054.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10965,7 +10965,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0369.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -10984,7 +10984,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0023.xml</th>
-         <td>2</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11003,7 +11003,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0135.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11022,7 +11022,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0311.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11041,7 +11041,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0118.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11060,7 +11060,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0053.xml</th>
-         <td>2</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11098,7 +11098,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0143.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11117,7 +11117,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0190.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11136,7 +11136,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0047.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11155,7 +11155,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0148.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11174,7 +11174,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0046.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11193,7 +11193,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0187.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11212,7 +11212,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0225.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11231,7 +11231,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0093.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11250,7 +11250,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0056.xml</th>
-         <td>2</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11269,7 +11269,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0044.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11288,7 +11288,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0173.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11307,7 +11307,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0395.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11326,7 +11326,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0058.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11345,7 +11345,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0211.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11364,7 +11364,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0062.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11383,7 +11383,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben01_1898_0048.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21206,13 +21206,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0120.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21231,7 +21231,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21250,7 +21250,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21263,13 +21263,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0062.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21282,13 +21282,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0045.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21307,7 +21307,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21326,7 +21326,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21345,7 +21345,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21358,13 +21358,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0117.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21383,7 +21383,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21396,13 +21396,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0089.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21421,7 +21421,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21434,13 +21434,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0151.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21459,7 +21459,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21472,13 +21472,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0163.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21491,13 +21491,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0086.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21510,13 +21510,13 @@
       </tr>
       <tr>
          <th>boerne_paris02_1832_0144.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21535,7 +21535,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21554,7 +21554,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -21573,7 +21573,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24208,13 +24208,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0172.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24233,7 +24233,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24252,7 +24252,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24265,13 +24265,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0054.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24290,7 +24290,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24303,13 +24303,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0153.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24328,7 +24328,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24347,7 +24347,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24360,13 +24360,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0057.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24385,7 +24385,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24398,13 +24398,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0175.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24417,13 +24417,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0264.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24436,13 +24436,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0030.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24455,13 +24455,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0032.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24480,7 +24480,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24493,13 +24493,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0038.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24518,7 +24518,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24531,13 +24531,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0041.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24550,13 +24550,13 @@
       </tr>
       <tr>
          <th>boerne_paris04_1833_0044.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24575,7 +24575,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
