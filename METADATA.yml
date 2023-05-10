@@ -31,7 +31,7 @@ hands:
 license:
   - name: CC0 1.0
     url: https://creativecommons.org/licenses/zero/1.0/
-gtTyp: data_line
+gtTyp: data_structure
 format: Page-XML
 transcription-guidelines: >-
   OCR-D-GT-Guideline, Part: Structur Ground Truth
