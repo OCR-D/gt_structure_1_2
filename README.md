@@ -45,14 +45,14 @@
       </thead>
       <tbody>
          <tr>
-            <td>5876</td>
+            <td>6172</td>
             <td>1</td>
             <td>0</td>
-            <td>125</td>
+            <td>134</td>
             <td>28</td>
             <td>0</td>
-            <td>449</td>
-            <td>74</td>
+            <td>484</td>
+            <td>75</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -244,13 +244,13 @@
                </tr>
                <tr>
                   <td>boltzmann_gastheorie01_1896</td>
-                  <td>72</td>
+                  <td>142</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>5</td>
                   <td>27</td>
                   <td/>
                   <td/>
@@ -624,7 +624,7 @@
                </tr>
                <tr>
                   <td>boelsche_liebesleben03_1903</td>
-                  <td>78</td>
+                  <td>166</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -643,13 +643,13 @@
                </tr>
                <tr>
                   <td>bohse_helicon_1696</td>
-                  <td>86</td>
+                  <td>127</td>
                   <td/>
                   <td/>
+                  <td>7</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>10</td>
+                  <td>22</td>
                   <td/>
                   <td/>
                   <td/>
@@ -795,14 +795,14 @@
                </tr>
                <tr>
                   <td>boltzmann_gastheorie02_1898</td>
-                  <td>79</td>
+                  <td>169</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>47</td>
+                  <td>10</td>
+                  <td>48</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1099,13 +1099,13 @@
                </tr>
                <tr>
                   <td>bohse_helicon01_1703</td>
-                  <td>110</td>
+                  <td>117</td>
                   <td/>
                   <td/>
                   <td>3</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
