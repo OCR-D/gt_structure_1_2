@@ -4011,7 +4011,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0028.xml</th>
-         <td>3</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4030,7 +4030,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0030.xml</th>
-         <td>3</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4049,7 +4049,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0025.xml</th>
-         <td>3</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4068,7 +4068,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0018.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4087,7 +4087,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0029.xml</th>
-         <td>6</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4106,7 +4106,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0022.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4125,7 +4125,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0023.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4144,7 +4144,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0031.xml</th>
-         <td>4</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4163,13 +4163,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0017.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4182,7 +4182,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0024.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4201,7 +4201,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0012.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4220,13 +4220,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0026.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
@@ -4239,7 +4239,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0032.xml</th>
-         <td>3</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4258,13 +4258,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0034.xml</th>
-         <td>4</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>2</td>
          <td>0</td>
          <td>0</td>
@@ -4277,7 +4277,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0016.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4296,7 +4296,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0020.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4315,7 +4315,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0019.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4334,7 +4334,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0027.xml</th>
-         <td>3</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4353,7 +4353,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie01_1896_0021.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12200,7 +12200,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0132.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12219,7 +12219,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0172.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12238,7 +12238,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0108.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12257,7 +12257,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0081.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12276,7 +12276,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0019.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -12295,7 +12295,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0074.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12314,7 +12314,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0034.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12333,7 +12333,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0042.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12352,7 +12352,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0126.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12390,7 +12390,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0021.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12409,7 +12409,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0071.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12428,7 +12428,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0094.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12447,7 +12447,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0127.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12466,7 +12466,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0165.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12485,7 +12485,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0058.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12523,7 +12523,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0217.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12542,7 +12542,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0131.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12561,7 +12561,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0047.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12580,7 +12580,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0293.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12599,7 +12599,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0045.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12618,7 +12618,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0095.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12637,7 +12637,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0378.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12656,7 +12656,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0020.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12675,7 +12675,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0362.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12694,7 +12694,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0079.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12713,7 +12713,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0134.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12732,7 +12732,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0176.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12751,7 +12751,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0140.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12770,7 +12770,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0086.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12789,7 +12789,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0017.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12808,7 +12808,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0038.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12827,7 +12827,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0114.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12846,7 +12846,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0046.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12865,7 +12865,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0149.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12884,7 +12884,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0037.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12903,7 +12903,7 @@
       </tr>
       <tr>
          <th>boelsche_liebesleben03_1903_0059.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12922,13 +12922,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0009.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12947,7 +12947,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12960,13 +12960,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0311.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12979,13 +12979,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0026.xml</th>
-         <td>6</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12998,7 +12998,7 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0034.xml</th>
-         <td>6</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13017,13 +13017,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0032.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13036,13 +13036,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0030.xml</th>
-         <td>6</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13061,7 +13061,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13074,13 +13074,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0021.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13093,13 +13093,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0027.xml</th>
-         <td>5</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13112,13 +13112,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0103.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13131,13 +13131,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0007.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13150,13 +13150,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0215.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13169,13 +13169,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0399.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13188,13 +13188,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0025.xml</th>
-         <td>6</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13213,7 +13213,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13232,7 +13232,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13245,13 +13245,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0015.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13270,7 +13270,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13283,13 +13283,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0024.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13302,13 +13302,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0087.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13321,13 +13321,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0028.xml</th>
-         <td>6</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13340,13 +13340,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0101.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13359,13 +13359,13 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0105.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -13378,10 +13378,10 @@
       </tr>
       <tr>
          <th>bohse_helicon_1696_0119.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -16323,8 +16323,26 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0039.xml</th>
-         <td>4</td>
+         <td>8</td>
          <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>boltzmann_gastheorie02_1898_0016.xml</th>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16338,36 +16356,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>boltzmann_gastheorie02_1898_0016.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>1</td>
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0017.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16380,7 +16380,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0035.xml</th>
-         <td>4</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16399,7 +16399,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0033.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16418,7 +16418,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0044.xml</th>
-         <td>3</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16437,13 +16437,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0034.xml</th>
-         <td>6</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>4</td>
          <td>0</td>
          <td>0</td>
@@ -16456,7 +16456,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0036.xml</th>
-         <td>5</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16475,13 +16475,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0026.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>3</td>
          <td>0</td>
          <td>0</td>
@@ -16494,7 +16494,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0043.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16513,13 +16513,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0048.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
@@ -16532,7 +16532,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0023.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16551,13 +16551,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0040.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
@@ -16570,7 +16570,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0029.xml</th>
-         <td>3</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16589,14 +16589,14 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0042.xml</th>
-         <td>3</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16608,7 +16608,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0041.xml</th>
-         <td>4</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16627,10 +16627,10 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0027.xml</th>
-         <td>4</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16646,7 +16646,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0047.xml</th>
-         <td>7</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -16665,7 +16665,7 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0037.xml</th>
-         <td>4</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16684,13 +16684,13 @@
       </tr>
       <tr>
          <th>boltzmann_gastheorie02_1898_0028.xml</th>
-         <td>5</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>6</td>
          <td>0</td>
          <td>0</td>
@@ -23416,7 +23416,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23429,13 +23429,13 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0023.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23467,13 +23467,13 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0022.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23543,13 +23543,13 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0009.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23600,7 +23600,7 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0021.xml</th>
-         <td>8</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -23619,13 +23619,13 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0016.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23644,7 +23644,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23663,7 +23663,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23695,13 +23695,13 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0010.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23714,7 +23714,7 @@
       </tr>
       <tr>
          <th>bohse_helicon01_1703_0007.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -23739,7 +23739,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23815,7 +23815,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
