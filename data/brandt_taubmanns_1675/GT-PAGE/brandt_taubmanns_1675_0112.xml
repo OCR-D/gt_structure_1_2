@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-brandt_taubmanns_1675_0112"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:35:59.856</Created><LastChange>2014-08-19T19:22:59</LastChange></Metadata><Page imageFilename="../jpg/brandt_taubmanns_1675_0112.jpg" imageWidth="1000" imageHeight="1541" type="content"><ReadingOrder><OrderedGroup id="d12" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="paragraph" custom="#poem" id="region_1"><Coords points="235,177 926,177 926,1363 235,1363"/></TextRegion><TextRegion type="catch-word" id="region_2"><Coords points="830,1312 916,1312 916,1404 830,1404"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-brandt_taubmanns_1675_0112">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:35:59</Created>
+	<LastChange>2023-05-17T16:08:13</LastChange></Metadata>
+	<Page imageFilename="../jpg/brandt_taubmanns_1675_0112.jpg" imageWidth="1000" imageHeight="1541" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="region_1" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem" type="paragraph">
+	<Coords points="924,177 924,310 925,310 925,325 924,325 924,329 894,329 894,600 926,600 926,604 897,604 897,841 898,841 898,842 899,842 899,1020 901,1020 901,1022 902,1022 902,1119 903,1119 903,1191 904,1191 904,1193 905,1193 905,1297 904,1297 904,1298 903,1298 903,1300 902,1300 902,1301 900,1301 900,1302 898,1302 898,1303 897,1303 897,1304 895,1304 895,1305 855,1305 855,1306 854,1306 854,1307 824,1307 824,1314 823,1314 823,1316 822,1316 822,1317 820,1317 820,1318 818,1318 818,1319 814,1319 814,1320 778,1320 778,1321 677,1321 677,1322 590,1322 590,1353 589,1353 589,1354 588,1354 588,1358 587,1358 587,1359 460,1359 460,1360 434,1360 434,1361 379,1361 379,1363 370,1363 370,1324 329,1324 329,1323 328,1323 328,1297 327,1297 327,1279 321,1279 321,1259 320,1259 320,1232 283,1232 283,1094 278,1094 278,1087 281,1087 281,876 277,876 277,875 276,875 276,700 274,700 274,699 273,699 273,697 272,697 272,388 271,388 271,385 270,385 270,381 269,381 269,215 268,215 268,213 267,213 267,205 266,205 266,192 265,192 265,191 264,191 264,187 265,187 265,186 335,186 335,183 336,183 336,182 339,182 339,181 424,181 424,180 426,180 426,179 594,179 594,177"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="881,1317 881,1318 882,1318 882,1325 904,1325 904,1326 905,1326 905,1327 906,1327 906,1348 905,1348 905,1349 903,1349 903,1350 897,1350 897,1351 837,1351 837,1350 836,1350 836,1345 837,1345 837,1344 838,1344 838,1320 839,1320 839,1319 840,1319 840,1318 862,1318 862,1317"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="297,142 297,143 301,143 301,144 305,144 305,145 307,145 307,156 309,156 309,157 310,157 310,161 309,161 309,163 308,163 308,165 306,165 306,166 303,166 303,167 284,167 284,168 283,168 283,169 282,169 282,170 281,170 281,171 279,171 279,172 278,172 278,173 275,173 275,174 274,174 274,175 266,175 266,173 265,173 265,168 266,168 266,167 267,167 267,149 268,149 268,148 269,148 269,147 270,147 270,145 271,145 271,144 272,144 272,143 276,143 276,142"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
