@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-braeuner_pest_1714_0425"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:35:57.999</Created><LastChange>2011-03-31T13:48:54</LastChange></Metadata><Page imageFilename="../jpg/braeuner_pest_1714_0425.jpg" imageWidth="876" imageHeight="1368" type="content"><ReadingOrder><OrderedGroup id="d20" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/></OrderedGroup></ReadingOrder><TextRegion type="other" custom="#back_paragraph" id="region_1"><Coords points="74,66 787,66 787,1283 74,1283"/></TextRegion><TextRegion type="header" id="region_2"><Coords points="334,82 501,82 501,139 334,139"/></TextRegion><TextRegion type="signature-mark" id="region_3"><Coords points="396,1172 505,1172 505,1225 396,1225"/></TextRegion><TextRegion type="catch-word" id="region_4"><Coords points="658,1176 763,1176 763,1227 658,1227"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-braeuner_pest_1714_0425">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:35:57</Created>
+	<LastChange>2023-05-11T14:33:56</LastChange></Metadata>
+	<Page imageFilename="../jpg/braeuner_pest_1714_0425.jpg" imageWidth="876" imageHeight="1368" type="content">
+	<AlternativeImage filename="braeuner_pest_1714_0425_B.tif"/>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_1" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#back_paragraph" type="other">
+	<Coords points="414,156 414,157 417,157 417,158 420,158 420,161 537,161 537,160 538,160 538,159 554,159 554,178 687,178 687,171 688,171 688,170 699,170 699,171 715,171 715,173 717,173 717,171 731,171 731,172 732,172 732,173 734,173 734,174 735,174 735,175 736,175 736,184 735,184 735,185 734,185 734,225 733,225 733,226 732,226 732,253 731,253 731,385 732,385 732,390 733,390 733,395 732,395 732,397 731,397 731,502 741,502 741,506 731,506 731,607 739,607 739,614 738,614 738,698 736,698 736,856 737,856 737,922 738,922 738,976 740,976 740,988 741,988 741,1166 708,1166 708,1168 698,1168 698,1166 542,1166 542,1168 535,1168 535,1167 533,1167 533,1166 532,1166 532,1163 393,1163 393,1166 392,1166 392,1167 361,1167 361,1168 356,1168 356,1167 333,1167 333,1164 220,1164 220,1165 173,1165 173,1168 167,1168 167,1167 166,1167 166,1163 122,1163 122,1162 119,1162 119,1160 109,1160 109,1159 108,1159 108,1151 107,1151 107,1150 106,1150 106,1147 102,1147 102,1143 103,1143 103,1033 98,1033 98,1024 97,1024 97,933 96,933 96,902 100,902 100,763 97,763 97,735 96,735 96,544 98,544 98,547 103,547 103,544 102,544 127,544 127,429 115,429 115,399 113,399 113,398 112,398 112,397 103,397 103,395 102,395 102,388 101,388 101,387 100,387 100,360 99,360 99,355 100,355 100,224 97,224 97,223 96,223 96,219 98,219 98,162 99,162 99,158 100,158 100,156"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="header">
+	<Coords points="421,88 421,97 443,97 443,98 444,98 444,99 445,99 445,100 447,100 447,101 450,101 450,107 476,107 476,118 482,118 482,120 483,120 483,121 484,121 484,126 483,126 483,127 481,127 481,128 469,128 469,129 435,129 435,130 434,130 434,134 433,134 433,136 411,136 411,137 406,137 406,136 398,136 398,135 397,135 397,134 355,134 355,133 349,133 349,131 339,131 339,118 336,118 336,117 334,117 334,112 351,112 351,101 352,101 352,100 353,100 353,99 356,99 356,98 417,98 417,88"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="432,1177 432,1178 433,1178 433,1179 434,1179 434,1181 438,1181 438,1182 453,1182 453,1183 454,1183 454,1186 482,1186 482,1187 483,1187 483,1188 484,1188 484,1195 486,1195 486,1196 487,1196 487,1204 486,1204 486,1207 432,1207 432,1208 428,1208 428,1210 421,1210 421,1209 418,1209 418,1208 416,1208 416,1207 415,1207 415,1206 413,1206 413,1205 412,1205 412,1202 411,1202 411,1198 410,1198 410,1188 411,1188 411,1185 412,1185 412,1182 413,1182 413,1181 414,1181 414,1180 415,1180 415,1179 417,1179 417,1178 419,1178 419,1177"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="710,1182 710,1184 711,1184 711,1191 732,1191 732,1192 733,1192 733,1193 734,1193 734,1194 735,1194 735,1197 746,1197 746,1200 747,1200 747,1201 749,1201 749,1202 750,1202 750,1207 734,1207 734,1208 732,1208 732,1209 730,1209 730,1210 725,1210 725,1209 670,1209 670,1204 669,1204 669,1202 668,1202 668,1201 667,1201 667,1197 659,1197 659,1193 670,1193 670,1185 671,1185 671,1182"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="226,140 226,141 354,141 354,142 366,142 366,143 534,143 534,144 691,144 691,145 702,145 702,146 737,146 737,154 578,154 578,153 555,153 555,152 548,152 548,151 462,151 462,150 326,150 326,152 322,152 322,150 268,150 268,149 141,149 141,150 102,150 102,146 100,146 100,142 102,142 102,140"/></SeparatorRegion></Page></PcGts>
