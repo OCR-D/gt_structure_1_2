@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6279</td>
+            <td>6374</td>
             <td>1</td>
             <td>0</td>
-            <td>139</td>
+            <td>151</td>
             <td>28</td>
             <td>0</td>
-            <td>516</td>
+            <td>515</td>
             <td>75</td>
             <td>0</td>
             <td>0</td>
@@ -301,13 +301,13 @@
                </tr>
                <tr>
                   <td>bodmer_sammlung10_1743</td>
-                  <td>189</td>
+                  <td>198</td>
                   <td/>
                   <td/>
+                  <td>7</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -377,10 +377,10 @@
                </tr>
                <tr>
                   <td>bodmer_sammlung12_1744</td>
-                  <td>135</td>
+                  <td>120</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -605,10 +605,10 @@
                </tr>
                <tr>
                   <td>bodmer_sammlung08_1743</td>
-                  <td>184</td>
+                  <td>183</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -871,10 +871,10 @@
                </tr>
                <tr>
                   <td>bodmer_sammlung09_1743</td>
-                  <td>196</td>
+                  <td>277</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -1061,10 +1061,10 @@
                </tr>
                <tr>
                   <td>bodmer_sammlung11_1743</td>
-                  <td>93</td>
+                  <td>114</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td>3</td>
