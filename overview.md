@@ -4942,10 +4942,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0007.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
          <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4980,7 +4980,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0032.xml</th>
-         <td>7</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4999,7 +4999,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0010.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5018,7 +5018,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0042.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5037,7 +5037,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0070.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5075,7 +5075,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0029.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5094,7 +5094,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0019.xml</th>
-         <td>8</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5113,7 +5113,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0021.xml</th>
-         <td>12</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5132,7 +5132,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0064.xml</th>
-         <td>8</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5151,7 +5151,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0065.xml</th>
-         <td>13</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5170,25 +5170,6 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0009.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bodmer_sammlung10_1743_0083.xml</th>
          <td>6</td>
          <td>0</td>
          <td>0</td>
@@ -5207,8 +5188,27 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>bodmer_sammlung10_1743_0034.xml</th>
+         <th>bodmer_sammlung10_1743_0083.xml</th>
          <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>bodmer_sammlung10_1743_0034.xml</th>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5227,7 +5227,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0084.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5246,13 +5246,13 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0005.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5265,7 +5265,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0039.xml</th>
-         <td>12</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5284,7 +5284,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0012.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5303,7 +5303,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0038.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5341,7 +5341,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0006.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5360,10 +5360,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0001.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -5398,7 +5398,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0028.xml</th>
-         <td>7</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5417,7 +5417,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0063.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5436,7 +5436,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0022.xml</th>
-         <td>8</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5455,7 +5455,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung10_1743_0008.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6633,25 +6633,6 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0020.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bodmer_sammlung12_1744_0024.xml</th>
          <td>4</td>
          <td>0</td>
          <td>0</td>
@@ -6670,8 +6651,27 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>bodmer_sammlung12_1744_0024.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>bodmer_sammlung12_1744_0009.xml</th>
-         <td>8</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6690,7 +6690,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0010.xml</th>
-         <td>9</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6728,7 +6728,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0011.xml</th>
-         <td>6</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6747,7 +6747,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0006.xml</th>
-         <td>14</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6785,25 +6785,6 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0007.xml</th>
-         <td>11</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bodmer_sammlung12_1744_0028.xml</th>
          <td>5</td>
          <td>0</td>
          <td>0</td>
@@ -6822,7 +6803,7 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>bodmer_sammlung12_1744_0016.xml</th>
+         <th>bodmer_sammlung12_1744_0028.xml</th>
          <td>4</td>
          <td>0</td>
          <td>0</td>
@@ -6841,8 +6822,27 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>bodmer_sammlung12_1744_0016.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>bodmer_sammlung12_1744_0008.xml</th>
-         <td>14</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6861,7 +6861,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0092.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6880,7 +6880,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0093.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6918,7 +6918,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0005.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6956,7 +6956,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0012.xml</th>
-         <td>8</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6994,7 +6994,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0013.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7032,7 +7032,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0091.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7051,7 +7051,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0094.xml</th>
-         <td>2</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7070,10 +7070,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung12_1744_0001.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -11516,7 +11516,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0011.xml</th>
-         <td>7</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11535,7 +11535,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0027.xml</th>
-         <td>12</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11573,7 +11573,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0067.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11592,7 +11592,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0009.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11611,7 +11611,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0015.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11630,7 +11630,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0022.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11649,7 +11649,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0029.xml</th>
-         <td>15</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11668,7 +11668,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0008.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11744,7 +11744,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0014.xml</th>
-         <td>7</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11763,7 +11763,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0025.xml</th>
-         <td>22</td>
+         <td>21</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11782,7 +11782,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0053.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11801,7 +11801,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0006.xml</th>
-         <td>8</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11820,7 +11820,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0012.xml</th>
-         <td>10</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11839,7 +11839,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0010.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11858,7 +11858,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0030.xml</th>
-         <td>15</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11877,7 +11877,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0026.xml</th>
-         <td>20</td>
+         <td>19</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11896,7 +11896,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0028.xml</th>
-         <td>17</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -11915,10 +11915,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung08_1743_0001.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -17995,7 +17995,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0100.xml</th>
-         <td>5</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18014,7 +18014,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0103.xml</th>
-         <td>7</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18052,7 +18052,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0095.xml</th>
-         <td>6</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18071,7 +18071,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0102.xml</th>
-         <td>7</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18090,7 +18090,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0104.xml</th>
-         <td>9</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18109,10 +18109,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0001.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -18128,7 +18128,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0051.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18147,7 +18147,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0089.xml</th>
-         <td>7</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18166,7 +18166,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0101.xml</th>
-         <td>6</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18185,7 +18185,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0003.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18204,7 +18204,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0099.xml</th>
-         <td>5</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18223,7 +18223,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0093.xml</th>
-         <td>5</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18261,7 +18261,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0096.xml</th>
-         <td>7</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18280,7 +18280,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0085.xml</th>
-         <td>7</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18299,7 +18299,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0094.xml</th>
-         <td>5</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18318,7 +18318,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0090.xml</th>
-         <td>6</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18337,7 +18337,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0086.xml</th>
-         <td>5</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18394,7 +18394,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0088.xml</th>
-         <td>7</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18413,7 +18413,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0081.xml</th>
-         <td>8</td>
+         <td>13</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18470,7 +18470,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0091.xml</th>
-         <td>6</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18508,7 +18508,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung09_1743_0098.xml</th>
-         <td>7</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22536,7 +22536,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0009.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22555,7 +22555,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0015.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22574,7 +22574,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0024.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22593,7 +22593,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0022.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22612,7 +22612,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0023.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22631,7 +22631,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0016.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22650,7 +22650,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0013.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22669,7 +22669,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0006.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22688,7 +22688,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0018.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22707,7 +22707,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0007.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22726,10 +22726,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0005.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -22745,7 +22745,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0021.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22802,7 +22802,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0019.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22859,7 +22859,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0011.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -22878,10 +22878,10 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0001.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -22897,7 +22897,7 @@
       </tr>
       <tr>
          <th>bodmer_sammlung11_1743_0008.xml</th>
-         <td>6</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
