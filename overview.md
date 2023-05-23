@@ -6234,7 +6234,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0009.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6253,7 +6253,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0026.xml</th>
-         <td>4</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6272,7 +6272,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0017.xml</th>
-         <td>5</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6291,7 +6291,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0020.xml</th>
-         <td>5</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6310,7 +6310,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0010.xml</th>
-         <td>4</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6329,7 +6329,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0012.xml</th>
-         <td>5</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6348,13 +6348,13 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0005.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6367,7 +6367,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0025.xml</th>
-         <td>7</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6386,7 +6386,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0018.xml</th>
-         <td>7</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6405,7 +6405,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0028.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6424,7 +6424,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0016.xml</th>
-         <td>5</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6443,13 +6443,13 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0003.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6462,7 +6462,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0027.xml</th>
-         <td>8</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6481,7 +6481,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0013.xml</th>
-         <td>6</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6500,7 +6500,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0007.xml</th>
-         <td>8</td>
+         <td>13</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6519,7 +6519,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0015.xml</th>
-         <td>6</td>
+         <td>13</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6538,7 +6538,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0008.xml</th>
-         <td>5</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6557,7 +6557,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0006.xml</th>
-         <td>6</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6576,7 +6576,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0011.xml</th>
-         <td>5</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6595,7 +6595,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0023.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6614,7 +6614,7 @@
       </tr>
       <tr>
          <th>boehmemi_viehartzney_1712_0019.xml</th>
-         <td>4</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
