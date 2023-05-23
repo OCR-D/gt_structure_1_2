@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6374</td>
+            <td>6454</td>
             <td>1</td>
             <td>0</td>
-            <td>151</td>
+            <td>153</td>
             <td>28</td>
             <td>0</td>
-            <td>515</td>
+            <td>513</td>
             <td>75</td>
             <td>0</td>
             <td>0</td>
@@ -358,13 +358,13 @@
                </tr>
                <tr>
                   <td>boehmemi_viehartzney_1712</td>
-                  <td>108</td>
+                  <td>188</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
