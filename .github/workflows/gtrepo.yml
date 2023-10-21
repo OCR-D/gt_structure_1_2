@@ -102,12 +102,20 @@ jobs:
         -s:scripts/gt-overview_metadata.xsl -o:ghout/overview.md
       shell: bash
 
-    - name: generate mets.sh
+    - name: debug generate mets.sh
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METS repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
-        -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
+        -s:scripts/gt-overview_metadata.xsl -o:ghout/mets.sh
       shell: bash
+      
+
+    # - name: generate mets.sh
+    #  run: |
+    #    java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+    #    output=METS repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
+    #    -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
+    #  shell: bash
       
     - name: generate Metadata JSON file
       run: |
