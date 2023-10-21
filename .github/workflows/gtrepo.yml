@@ -179,24 +179,24 @@ jobs:
          path: 'ocrdzip_out'
       
         
-    - name: Upload Release
-      uses: ncipollo/release-action@v1
-      with:
-          artifacts: './bagitDump-v*.zip'
-          artifactContentType: application/zip
-          name: Release ${{ github.run_number }}_${{ github.ref_name }}
-          body: |
-            <dl>
-            <dt>Version:</dt> 
-            <dd>${{ github.ref_name }}</dd>
-            <dt>Info:</dt>
-            <dd>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.<br/>
-            The zip file contains all ocr-d-bagit files.<br/>
-            The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
-            The Mets.xml file lists all containing documents/bagits.<br/>
-            The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.</dd>
-            </dl>
-          token: ${{ secrets.GITHUB_TOKEN }}
+#    - name: Upload Release
+#      uses: ncipollo/release-action@v1
+#      with:
+#          artifacts: './bagitDump-v*.zip'
+#          artifactContentType: application/zip
+#          name: Release ${{ github.run_number }}_${{ github.ref_name }}
+#          body: |
+#            <dl>
+#            <dt>Version:</dt> 
+#            <dd>${{ github.ref_name }}</dd>
+#            <dt>Info:</dt>
+#            <dd>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.<br/>
+#            The zip file contains all ocr-d-bagit files.<br/>
+#            The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
+#            The Mets.xml file lists all containing documents/bagits.<br/>
+#            The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.</dd>
+#            </dl>
+#          token: ${{ secrets.GITHUB_TOKEN }}
           
     - name: Commit README
       run: |
