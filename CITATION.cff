@@ -8,7 +8,7 @@ authors:
       orcid: 'https://orcid.org/0000-0003-4615-4753'
 repository-code: 'https://github.com/OCR-D/gt_structure_1_2'
 url: 'https://github.com/OCR-D/gt_structure_1_2'
-abstract: <escaped-element>&gt;</escaped-element>- The repo gt_structure_1_2 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.
+abstract: The repo gt_structure_1_2 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.
 keywords:
     - ocr-d
     - repository
@@ -16,6 +16,6 @@ keywords:
     - ground-truth
     - data_structure
 license: CC0-1.0
-commit: v1.3.6
-version: 62_v1.3.6
+commit: v1.3.7
+version: 63_v1.3.7
 date-released: '2024-03-25'
