@@ -20,29 +20,36 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Niedersächsische Staats- und Universitätsbibliothek Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>8 H NAT I, 7251:1</mods:shelfLocator>
+                  <mods:url>http://resolver.sub.uni-goettingen.de/purl?PPN578154684</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Göttingen</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1779</mods:dateIssued>
+                  <mods:publisher>Johann Christian Dieterich</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
-                  <mods:dateCaptured encoding="w3cdtf"/>
+                  <mods:dateCaptured encoding="w3cdtf">2024-03-06T08:00:00Z</mods:dateCaptured>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Wissenschaft</mods:classification>
+               <mods:classification authority="DTA">Naturgeschichte</mods:classification>
+               <mods:identifier type="purl">https://www.deutschestextarchiv.de/book/show/blumenbach_naturgeschichte_1779</mods:identifier>
+               <mods:identifier type="dtaid">30438</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Handbuch der Naturgeschichte</mods:title>
+                  <mods:subTitle>mit Kupfern</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number/>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +60,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Blumenbach</mods:namePart>
+                  <mods:namePart type="given">Johann Friedrich</mods:namePart>
+                  <mods:displayForm>Johann Friedrich Blumenbach</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>448 S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +75,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Handbuch der Naturgeschichte mit Kupfern </zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

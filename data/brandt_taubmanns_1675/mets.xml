@@ -20,45 +20,113 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
+                  <mods:physicalLocation>Universitäts- und Landesbibliothek Sachsen-Anhalt</mods:physicalLocation>
+                  <mods:shelfLocator>Pon Zf 130</mods:shelfLocator>
                   <mods:url/>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Kopenhagen</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1675</mods:dateIssued>
+                  <mods:publisher>Haubold</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Leichenpredigt</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:gbv:3:1-100352</mods:identifier>
+               <mods:identifier type="purl">https://opendata2.uni-halle.de//handle/1516514412012/31047</mods:identifier>
+               <mods:identifier type="doi">http://dx.doi.org/10.25673/opendata2-31044</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Gläntzende Tauben-Flügel/ das ist: Ausführlicher Bericht/ Von dem Leben und Todt Herrn Friederich Taubmanns/ Weiland hochberühmten treüfleissigen und sehr beliebten Professoris zu Wittenberg</mods:title>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
                      <mods:title/>
                   </mods:titleInfo>
                </mods:relatedItem>
-               <mods:name type="personal">
+               <mods:name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/101760396">
+                  <mods:displayForm>Brandt, Frederik</mods:displayForm>
+                  <mods:namePart type="given">Frederik</mods:namePart>
+                  <mods:namePart type="family">Brandt</mods:namePart>
+                  <mods:namePart type="date">1632-1691</mods:namePart>
                   <mods:role>
-                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                     <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                     <mods:roleTerm type="text">VerfasserIn</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+               </mods:name>
+               <mods:name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/117247243">
+                  <mods:displayForm>Taubmann, Friedrich</mods:displayForm>
+                  <mods:namePart type="given">Friedrich</mods:namePart>
+                  <mods:namePart type="family">Taubmann</mods:namePart>
+                  <mods:namePart type="date">1565-1613</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">ctb</mods:roleTerm>
+                     <mods:roleTerm type="text">BeiträgerIn</mods:roleTerm>
+                  </mods:role>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:displayForm>Güldenleü, Ulderich-Friederich</mods:displayForm>
+                  <mods:namePart type="given">Ulderich-Friederich</mods:namePart>
+                  <mods:namePart type="family">Güldenleü</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">dte</mods:roleTerm>
+                     <mods:roleTerm type="text">WidmungsempfängerIn</mods:roleTerm>
+                  </mods:role>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:displayForm>Altenburg, Anthon von</mods:displayForm>
+                  <mods:namePart type="given">Anthon von</mods:namePart>
+                  <mods:namePart type="family">Altenburg</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">dte</mods:roleTerm>
+                     <mods:roleTerm type="text">WidmungsempfängerIn</mods:roleTerm>
+                  </mods:role>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:displayForm>Borrichius, Olaus</mods:displayForm>
+                  <mods:namePart type="given">Olaus</mods:namePart>
+                  <mods:namePart type="family">Borrichius</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">cns</mods:roleTerm>
+                     <mods:roleTerm type="text">ZensorIn</mods:roleTerm>
+                  </mods:role>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:displayForm>Beyrholmius, Andreas</mods:displayForm>
+                  <mods:namePart type="given">Andreas</mods:namePart>
+                  <mods:namePart type="family">Beyrholmius</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">ctb</mods:roleTerm>
+                     <mods:roleTerm type="text">BeiträgerIn</mods:roleTerm>
+                  </mods:role>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:displayForm>Heinsius, Daniel</mods:displayForm>
+                  <mods:namePart type="given">Daniel</mods:namePart>
+                  <mods:namePart type="family">Heinsius</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">ctb</mods:roleTerm>
+                     <mods:roleTerm type="text">BeiträgerIn</mods:roleTerm>
+                  </mods:role>
+               </mods:name>
+               <mods:name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037524470">
+                  <mods:displayForm>Haubold, Peter</mods:displayForm>
+                  <mods:namePart type="given">Peter</mods:namePart>
+                  <mods:namePart type="family">Haubold</mods:namePart>
+                  <mods:role>
+                     <mods:roleTerm type="code" authority="marcrelator">pbl</mods:roleTerm>
+                     <mods:roleTerm type="text">Verl.</mods:roleTerm>
+                  </mods:role>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[8] Bl., 96 S ; 8°</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +136,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Gläntzende Tauben-Flügel/ das ist: Ausführlicher Bericht/ Von dem Leben und Todt Herrn Friederich Taubmanns/ Weiland hochberühmten treüfleissigen und sehr beliebten Professoris zu Wittenberg</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
