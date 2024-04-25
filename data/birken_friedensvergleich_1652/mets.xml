@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>Wolfenbüttel HAB, M: Gl 488</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/gl-488/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/gl-488/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
