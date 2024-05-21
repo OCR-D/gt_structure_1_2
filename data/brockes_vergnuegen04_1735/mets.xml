@@ -94,15 +94,6 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0002">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
    <mets:dmdSec ID="DMDGT_0003">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
@@ -334,11 +325,6 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0003.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0002"
-                    GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0005.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0006.xml"/>
@@ -456,11 +442,6 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0003.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0002"
-                    GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0005.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0006.xml"/>
@@ -575,9 +556,6 @@
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0003.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0005.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0006.jpg"/>
          </mets:file>
@@ -648,9 +626,6 @@
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0003.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0005.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0006.jpg"/>
@@ -739,12 +714,6 @@
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
             <mets:fptr FILEID="DEFAULT_0001"/>
             <mets:fptr FILEID="OCR-D-IMG_0001"/>
-         </mets:div>
-         <mets:div TYPE="page" ORDER="2" ID="phys_0002" DMDID="DMDGT_0002">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
-            <mets:fptr FILEID="DEFAULT_0002"/>
-            <mets:fptr FILEID="OCR-D-IMG_0002"/>
          </mets:div>
          <mets:div TYPE="page" ORDER="3" ID="phys_0003" DMDID="DMDGT_0003">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
@@ -884,7 +853,6 @@
       <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0000"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0001"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0002"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0003"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0004"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0005"/>
