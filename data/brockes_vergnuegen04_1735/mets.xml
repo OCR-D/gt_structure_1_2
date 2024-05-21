@@ -94,6 +94,7 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
+   
    <mets:dmdSec ID="DMDGT_0003">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
@@ -112,15 +113,7 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0005">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
+   
    <mets:dmdSec ID="DMDGT_0006">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
@@ -130,15 +123,7 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0007">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
+   
    <mets:dmdSec ID="DMDGT_0008">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
@@ -211,15 +196,7 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0016">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
+   
    <mets:dmdSec ID="DMDGT_0017">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
@@ -229,33 +206,9 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0018">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0019">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0020">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
+   
+   
+   
    <mets:dmdSec ID="DMDGT_0021">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
@@ -324,6 +277,7 @@
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0003.xml"/>
          </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
@@ -334,21 +288,13 @@
                     GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0007.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0005"
-                    GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0008.xml"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0009.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0007"
-                    GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0010.xml"/>
-         </mets:file>
+        
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
@@ -389,31 +335,14 @@
                     GROUPID="OCR-D-IMG_0015">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0563.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0016"
-                    GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0564.xml"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0017"
                     GROUPID="OCR-D-IMG_0017">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0565.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0018"
-                    GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0566.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0019"
-                    GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0567.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0020"
-                    GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0568.xml"/>
-         </mets:file>
+         
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0021"
                     GROUPID="OCR-D-IMG_0021">
@@ -441,6 +370,7 @@
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0003.xml"/>
          </mets:file>
+        
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
@@ -451,21 +381,13 @@
                     GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0007.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0005"
-                    GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0008.xml"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0009.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0007"
-                    GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0010.xml"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
@@ -506,31 +428,13 @@
                     GROUPID="OCR-D-IMG_0015">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0563.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0016"
-                    GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0564.xml"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0017"
                     GROUPID="OCR-D-IMG_0017">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0565.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0018"
-                    GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0566.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0019"
-                    GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0567.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0020"
-                    GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/brockes_vergnuegen04_1735_0568.xml"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0021"
                     GROUPID="OCR-D-IMG_0021">
@@ -562,14 +466,8 @@
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0007.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0008.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0009.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0010.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008" GROUPID="OCR-D-IMG_0008">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0011.jpg"/>
@@ -595,20 +493,8 @@
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0015" GROUPID="OCR-D-IMG_0015">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0563.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0564.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0017" GROUPID="OCR-D-IMG_0017">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0565.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0566.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0567.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0568.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0021" GROUPID="OCR-D-IMG_0021">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0569.jpg"/>
@@ -627,21 +513,18 @@
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0003.jpg"/>
          </mets:file>
+        
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0007.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0008.jpg"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0009.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0010.jpg"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0011.jpg"/>
          </mets:file>
@@ -666,21 +549,11 @@
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0015" GROUPID="OCR-D-IMG_0015">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0563.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0564.jpg"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0017" GROUPID="OCR-D-IMG_0017">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0565.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0566.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0567.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0568.jpg"/>
-         </mets:file>
+         
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0021" GROUPID="OCR-D-IMG_0021">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/brockes_vergnuegen04_1735_0569.jpg"/>
          </mets:file>
@@ -715,6 +588,7 @@
             <mets:fptr FILEID="DEFAULT_0001"/>
             <mets:fptr FILEID="OCR-D-IMG_0001"/>
          </mets:div>
+         
          <mets:div TYPE="page" ORDER="3" ID="phys_0003" DMDID="DMDGT_0003">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
@@ -727,24 +601,14 @@
             <mets:fptr FILEID="DEFAULT_0004"/>
             <mets:fptr FILEID="OCR-D-IMG_0004"/>
          </mets:div>
-         <mets:div TYPE="page" ORDER="5" ID="phys_0005" DMDID="DMDGT_0005">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0005"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0005"/>
-            <mets:fptr FILEID="DEFAULT_0005"/>
-            <mets:fptr FILEID="OCR-D-IMG_0005"/>
-         </mets:div>
+         
          <mets:div TYPE="page" ORDER="6" ID="phys_0006" DMDID="DMDGT_0006">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
             <mets:fptr FILEID="DEFAULT_0006"/>
             <mets:fptr FILEID="OCR-D-IMG_0006"/>
          </mets:div>
-         <mets:div TYPE="page" ORDER="7" ID="phys_0007" DMDID="DMDGT_0007">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0007"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0007"/>
-            <mets:fptr FILEID="DEFAULT_0007"/>
-            <mets:fptr FILEID="OCR-D-IMG_0007"/>
-         </mets:div>
+         
          <mets:div TYPE="page" ORDER="8" ID="phys_0008" DMDID="DMDGT_0008">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0008"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0008"/>
@@ -793,36 +657,15 @@
             <mets:fptr FILEID="DEFAULT_0015"/>
             <mets:fptr FILEID="OCR-D-IMG_0015"/>
          </mets:div>
-         <mets:div TYPE="page" ORDER="16" ID="phys_0016" DMDID="DMDGT_0016">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0016"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0016"/>
-            <mets:fptr FILEID="DEFAULT_0016"/>
-            <mets:fptr FILEID="OCR-D-IMG_0016"/>
-         </mets:div>
+         
          <mets:div TYPE="page" ORDER="17" ID="phys_0017" DMDID="DMDGT_0017">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0017"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0017"/>
             <mets:fptr FILEID="DEFAULT_0017"/>
             <mets:fptr FILEID="OCR-D-IMG_0017"/>
          </mets:div>
-         <mets:div TYPE="page" ORDER="18" ID="phys_0018" DMDID="DMDGT_0018">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0018"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0018"/>
-            <mets:fptr FILEID="DEFAULT_0018"/>
-            <mets:fptr FILEID="OCR-D-IMG_0018"/>
-         </mets:div>
-         <mets:div TYPE="page" ORDER="19" ID="phys_0019" DMDID="DMDGT_0019">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0019"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0019"/>
-            <mets:fptr FILEID="DEFAULT_0019"/>
-            <mets:fptr FILEID="OCR-D-IMG_0019"/>
-         </mets:div>
-         <mets:div TYPE="page" ORDER="20" ID="phys_0020" DMDID="DMDGT_0020">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0020"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0020"/>
-            <mets:fptr FILEID="DEFAULT_0020"/>
-            <mets:fptr FILEID="OCR-D-IMG_0020"/>
-         </mets:div>
+         
+         
          <mets:div TYPE="page" ORDER="21" ID="phys_0021" DMDID="DMDGT_0021">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0021"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0021"/>
@@ -853,11 +696,12 @@
       <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0000"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0001"/>
+      
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0003"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0004"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0005"/>
+      
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0006"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0007"/>
+      
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0008"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0009"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0010"/>
@@ -866,11 +710,11 @@
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0013"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0014"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0015"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0016"/>
+      
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0017"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0018"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0019"/>
-      <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0020"/>
+      
+      
+      
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0021"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0022"/>
       <mets:smLink xlink:from="loc_d1e415" xlink:to="phys_0023"/>
